@@ -1,0 +1,176 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "iiQ"
+provides-nominal:
+- "3Auk3iiQC"
+provides-member:
+- ["3Auk3iiQC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "/"
+- !private "DispatchQoS"
+- !private "DispatchQueue"
+- !private "DispatchTime"
+- "Double"
+- !private "Int64"
+- !private "NSEC_PER_SEC"
+- "iiQ"
+depends-member:
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "asyncAfter"]
+- !private ["s7CVarArgP", "global"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "now"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "asyncAfter"]
+- !private ["s28CustomDebugStringConvertibleP", "global"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "asyncAfter"]
+- !private ["s23CustomStringConvertibleP", "global"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s9DecodableP", "init"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So14DispatchObjectC", "asyncAfter"]
+- !private ["So14DispatchObjectC", "global"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["8Dispatch0A3QoSV", "QoSClass"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["So13DispatchQueueC", "asyncAfter"]
+- !private ["So13DispatchQueueC", "global"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["8Dispatch0A4TimeV", "now"]
+- !private ["Sd", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "QoSClass"]
+- !private ["s9EquatableP", "async"]
+- !private ["s9EquatableP", "asyncAfter"]
+- !private ["s9EquatableP", "default"]
+- !private ["s9EquatableP", "global"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "now"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s8HashableP", "async"]
+- !private ["s8HashableP", "asyncAfter"]
+- !private ["s8HashableP", "default"]
+- !private ["s8HashableP", "global"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "main"]
+- !private ["s5Int64V", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "asyncAfter"]
+- !private ["So8NSObjectC", "global"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "asyncAfter"]
+- !private ["So16NSObjectProtocolP", "global"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["s7NumericP", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "asyncAfter"]
+- !private ["So9OS_objectC", "global"]
+- !private ["So9OS_objectC", "main"]
+- !private ["8Dispatch0A3QoSV0B6SClassO", "default"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "asyncAfter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "global"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s11_StrideableP", "init"]
+- !private ["3Auk3iiQC", "DispatchQoS"]
+- !private ["3Auk3iiQC", "DispatchQueue"]
+- !private ["3Auk3iiQC", "DispatchTime"]
+- ["3Auk3iiQC", "Double"]
+- !private ["3Auk3iiQC", "Int64"]
+- !private ["3Auk3iiQC", "NSEC_PER_SEC"]
+- ["3Auk3iiQC", "async"]
+- ["3Auk3iiQC", "deinit"]
+- ["3Auk3iiQC", "init"]
+- ["3Auk3iiQC", "main"]
+- ["3Auk3iiQC", "runAfterDelay"]
+depends-nominal:
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "s7CVarArgP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "8Dispatch0A3QoSV"
+- !private "So13DispatchQueueC"
+- !private "8Dispatch0A4TimeV"
+- !private "Sd"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s13FloatingPointP"
+- !private "s8HashableP"
+- !private "s5Int64V"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s7NumericP"
+- !private "So9OS_objectC"
+- !private "8Dispatch0A3QoSV0B6SClassO"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s11_StrideableP"
+- "3Auk3iiQC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Products/Debug-iphonesimulator/moa/moa.framework/Modules/moa.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/Auk/Auk-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Auk.build/unextended-module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/module.modulemap"
+interface-hash: "432e78065610da73bf351e16562d2e1b"

@@ -1,0 +1,355 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "iiAutolayoutConstraints"
+provides-nominal:
+- "3Auk23iiAutolayoutConstraintsC"
+provides-member:
+- ["3Auk23iiAutolayoutConstraintsC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "<"
+- !private ">="
+- "AnyObject"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- !private "Dictionary"
+- "NSLayoutAttribute"
+- "NSLayoutConstraint"
+- !private "NSLayoutRelation"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UIView"
+- !private "UnicodeScalarType"
+- "iiAutolayoutConstraints"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "enumerated"]
+- !private ["Sa", "init"]
+- !private ["Sa", "subscript"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "enumerated"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addConstraint"]
+- !private ["So15CALayerDelegateP", "addConstraints"]
+- !private ["s7CVarArgP", "addConstraint"]
+- !private ["s7CVarArgP", "addConstraints"]
+- !private ["s7CVarArgP", "constraints"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "enumerated"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "addConstraint"]
+- !private ["s28CustomDebugStringConvertibleP", "addConstraints"]
+- !private ["s28CustomDebugStringConvertibleP", "constraints"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addConstraint"]
+- !private ["s23CustomStringConvertibleP", "addConstraints"]
+- !private ["s23CustomStringConvertibleP", "constraints"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "count"]
+- !private ["s9DecodableP", "enumerated"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "count"]
+- !private ["s9EncodableP", "enumerated"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addConstraint"]
+- !private ["s9EquatableP", "addConstraints"]
+- !private ["s9EquatableP", "constraints"]
+- !private ["s9EquatableP", "equal"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "notAnAttribute"]
+- !private ["s9EquatableP", "width"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addConstraint"]
+- !private ["s8HashableP", "addConstraints"]
+- !private ["s8HashableP", "constraints"]
+- !private ["s8HashableP", "equal"]
+- !private ["s8HashableP", "height"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "notAnAttribute"]
+- !private ["s8HashableP", "width"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "enumerated"]
+- !private ["s17MutableCollectionP", "init"]
+- !private ["s17MutableCollectionP", "subscript"]
+- !private ["So8NSCodingP", "addConstraint"]
+- !private ["So8NSCodingP", "addConstraints"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["SC17NSLayoutAttributeO", "height"]
+- !private ["SC17NSLayoutAttributeO", "notAnAttribute"]
+- !private ["SC17NSLayoutAttributeO", "width"]
+- !private ["So18NSLayoutConstraintC", "constraints"]
+- !private ["So18NSLayoutConstraintC", "init"]
+- !private ["SC16NSLayoutRelationO", "equal"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "addConstraint"]
+- !private ["So8NSObjectC", "addConstraints"]
+- !private ["So8NSObjectC", "constraints"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So16NSObjectProtocolP", "addConstraint"]
+- !private ["So16NSObjectProtocolP", "addConstraints"]
+- !private ["So16NSObjectProtocolP", "constraints"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "enumerated"]
+- !private ["s22RandomAccessCollectionP", "init"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "enumerated"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s16RawRepresentableP", "equal"]
+- !private ["s16RawRepresentableP", "height"]
+- !private ["s16RawRepresentableP", "notAnAttribute"]
+- !private ["s16RawRepresentableP", "width"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "enumerated"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addConstraint"]
+- !private ["So29UIAccessibilityIdentificationP", "addConstraints"]
+- !private ["So12UIAppearanceP", "addConstraint"]
+- !private ["So12UIAppearanceP", "addConstraints"]
+- !private ["So21UIAppearanceContainerP", "addConstraint"]
+- !private ["So21UIAppearanceContainerP", "addConstraints"]
+- !private ["So17UICoordinateSpaceP", "addConstraint"]
+- !private ["So17UICoordinateSpaceP", "addConstraints"]
+- !private ["So13UIDynamicItemP", "addConstraint"]
+- !private ["So13UIDynamicItemP", "addConstraints"]
+- !private ["So18UIFocusEnvironmentP", "addConstraint"]
+- !private ["So18UIFocusEnvironmentP", "addConstraints"]
+- !private ["So11UIFocusItemP", "addConstraint"]
+- !private ["So11UIFocusItemP", "addConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "addConstraint"]
+- !private ["So30UIPasteConfigurationSupportingP", "addConstraints"]
+- !private ["So11UIResponderC", "addConstraint"]
+- !private ["So11UIResponderC", "addConstraints"]
+- !private ["So30UIResponderStandardEditActionsP", "addConstraint"]
+- !private ["So30UIResponderStandardEditActionsP", "addConstraints"]
+- !private ["So18UITraitEnvironmentP", "addConstraint"]
+- !private ["So18UITraitEnvironmentP", "addConstraints"]
+- !private ["So6UIViewC", "addConstraint"]
+- !private ["So6UIViewC", "addConstraints"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- !private ["s23_BidirectionalIndexableP", "enumerated"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addConstraint"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addConstraints"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "enumerated"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "enumerated"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addConstraint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addConstraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "constraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "enumerated"]
+- !private ["s17_MutableIndexableP", "init"]
+- !private ["s17_MutableIndexableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "enumerated"]
+- !private ["s22_RandomAccessIndexableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "enumerated"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- ["3Auk23iiAutolayoutConstraintsC", "AnyObject"]
+- ["3Auk23iiAutolayoutConstraintsC", "Bool"]
+- ["3Auk23iiAutolayoutConstraintsC", "CGFloat"]
+- ["3Auk23iiAutolayoutConstraintsC", "NSLayoutAttribute"]
+- ["3Auk23iiAutolayoutConstraintsC", "NSLayoutConstraint"]
+- !private ["3Auk23iiAutolayoutConstraintsC", "NSLayoutRelation"]
+- ["3Auk23iiAutolayoutConstraintsC", "UIView"]
+- ["3Auk23iiAutolayoutConstraintsC", "alignSameAttributes"]
+- ["3Auk23iiAutolayoutConstraintsC", "deinit"]
+- ["3Auk23iiAutolayoutConstraintsC", "equalHeight"]
+- ["3Auk23iiAutolayoutConstraintsC", "equalSize"]
+- ["3Auk23iiAutolayoutConstraintsC", "equalWidth"]
+- ["3Auk23iiAutolayoutConstraintsC", "equalWidthOrHeight"]
+- ["3Auk23iiAutolayoutConstraintsC", "fillParent"]
+- ["3Auk23iiAutolayoutConstraintsC", "height"]
+- ["3Auk23iiAutolayoutConstraintsC", "init"]
+- ["3Auk23iiAutolayoutConstraintsC", "twoViewsNextToEachOther"]
+- ["3Auk23iiAutolayoutConstraintsC", "viewsNextToEachOther"]
+- ["3Auk23iiAutolayoutConstraintsC", "width"]
+- ["3Auk23iiAutolayoutConstraintsC", "widthOrHeight"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "SC17NSLayoutAttributeO"
+- !private "So18NSLayoutConstraintC"
+- !private "SC16NSLayoutRelationO"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+- "3Auk23iiAutolayoutConstraintsC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Products/Debug-iphonesimulator/moa/moa.framework/Modules/moa.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/Auk/Auk-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Auk.build/unextended-module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/module.modulemap"
+interface-hash: "7b0a2ec81e0b6aba64c41faef80c2698"

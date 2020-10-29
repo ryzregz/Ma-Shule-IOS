@@ -1,0 +1,316 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MoaHttpSession"
+provides-nominal:
+- "3moa14MoaHttpSessionV"
+provides-member:
+- ["3moa14MoaHttpSessionV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CastingPrecedence"
+- !private "FileManager"
+- !private "Moa"
+- "MoaHttpSession"
+- "MoaSettings"
+- "MoaSettingsCache"
+- !private "NSSearchPathForDirectoriesInDomains"
+- !private "NSString"
+- !private "NSTemporaryDirectory"
+- !private "String"
+- !private "URLCache"
+- "URLSession"
+- !private "URLSessionConfiguration"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "SearchPathDirectory"]
+- !private ["s7CVarArgP", "SearchPathDomainMask"]
+- !private ["s7CVarArgP", "appendingPathComponent"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "finishTasksAndInvalidate"]
+- !private ["s7CVarArgP", "httpMaximumConnectionsPerHost"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "requestCachePolicy"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "timeoutIntervalForRequest"]
+- !private ["s7CVarArgP", "timeoutIntervalForResource"]
+- !private ["s7CVarArgP", "urlCache"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "SearchPathDirectory"]
+- !private ["s28CustomDebugStringConvertibleP", "SearchPathDomainMask"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "finishTasksAndInvalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "httpMaximumConnectionsPerHost"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "requestCachePolicy"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeoutIntervalForRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "timeoutIntervalForResource"]
+- !private ["s28CustomDebugStringConvertibleP", "urlCache"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "SearchPathDirectory"]
+- !private ["s23CustomStringConvertibleP", "SearchPathDomainMask"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "finishTasksAndInvalidate"]
+- !private ["s23CustomStringConvertibleP", "httpMaximumConnectionsPerHost"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "requestCachePolicy"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeoutIntervalForRequest"]
+- !private ["s23CustomStringConvertibleP", "timeoutIntervalForResource"]
+- !private ["s23CustomStringConvertibleP", "urlCache"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "count"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "count"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "SearchPathDirectory"]
+- !private ["s9EquatableP", "SearchPathDomainMask"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "appendingPathComponent"]
+- !private ["s9EquatableP", "applicationSupportDirectory"]
+- !private ["s9EquatableP", "default"]
+- !private ["s9EquatableP", "finishTasksAndInvalidate"]
+- !private ["s9EquatableP", "httpMaximumConnectionsPerHost"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "requestCachePolicy"]
+- !private ["s9EquatableP", "timeoutIntervalForRequest"]
+- !private ["s9EquatableP", "timeoutIntervalForResource"]
+- !private ["s9EquatableP", "urlCache"]
+- !private ["s9EquatableP", "userDomainMask"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "appendingPathComponent"]
+- !private ["s26ExpressibleByStringLiteralP", "appendingPathComponent"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "appendingPathComponent"]
+- !private ["So11FileManagerC", "SearchPathDirectory"]
+- !private ["So11FileManagerC", "SearchPathDomainMask"]
+- !private ["s8HashableP", "SearchPathDirectory"]
+- !private ["s8HashableP", "SearchPathDomainMask"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "appendingPathComponent"]
+- !private ["s8HashableP", "applicationSupportDirectory"]
+- !private ["s8HashableP", "default"]
+- !private ["s8HashableP", "finishTasksAndInvalidate"]
+- !private ["s8HashableP", "httpMaximumConnectionsPerHost"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "requestCachePolicy"]
+- !private ["s8HashableP", "timeoutIntervalForRequest"]
+- !private ["s8HashableP", "timeoutIntervalForResource"]
+- !private ["s8HashableP", "urlCache"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["3moa3MoaC", "settings"]
+- !private ["3moa14MoaHttpSessionV", "FileManager"]
+- !private ["3moa14MoaHttpSessionV", "Moa"]
+- ["3moa14MoaHttpSessionV", "MoaSettings"]
+- ["3moa14MoaHttpSessionV", "MoaSettingsCache"]
+- !private ["3moa14MoaHttpSessionV", "NSSearchPathForDirectoriesInDomains"]
+- !private ["3moa14MoaHttpSessionV", "NSString"]
+- !private ["3moa14MoaHttpSessionV", "NSTemporaryDirectory"]
+- !private ["3moa14MoaHttpSessionV", "String"]
+- !private ["3moa14MoaHttpSessionV", "URLCache"]
+- ["3moa14MoaHttpSessionV", "URLSession"]
+- !private ["3moa14MoaHttpSessionV", "URLSessionConfiguration"]
+- ["3moa14MoaHttpSessionV", "cacheSettingsChanged"]
+- ["3moa14MoaHttpSessionV", "clearSession"]
+- !private ["3moa14MoaHttpSessionV", "createNewSession"]
+- !private ["3moa14MoaHttpSessionV", "currentSession"]
+- ["3moa14MoaHttpSessionV", "init"]
+- !private ["3moa14MoaHttpSessionV", "osxCachePath"]
+- ["3moa14MoaHttpSessionV", "session"]
+- ["3moa14MoaHttpSessionV", "settingsChanged"]
+- !private ["3moa11MoaSettingsV", "cache"]
+- !private ["3moa11MoaSettingsV", "maximumSimultaneousDownloads"]
+- !private ["3moa11MoaSettingsV", "requestTimeoutSeconds"]
+- !private ["3moa16MoaSettingsCacheV", "diskCapacityBytes"]
+- !private ["3moa16MoaSettingsCacheV", "diskPath"]
+- !private ["3moa16MoaSettingsCacheV", "memoryCapacityBytes"]
+- !private ["3moa16MoaSettingsCacheV", "requestCachePolicy"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "subscript"]
+- !private ["So8NSCodingP", "appendingPathComponent"]
+- !private ["So9NSCopyingP", "appendingPathComponent"]
+- !private ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "httpMaximumConnectionsPerHost"]
+- !private ["So9NSCopyingP", "requestCachePolicy"]
+- !private ["So9NSCopyingP", "timeoutIntervalForRequest"]
+- !private ["So9NSCopyingP", "timeoutIntervalForResource"]
+- !private ["So9NSCopyingP", "urlCache"]
+- !private ["So21NSItemProviderReadingP", "appendingPathComponent"]
+- !private ["So21NSItemProviderWritingP", "appendingPathComponent"]
+- !private ["So16NSMutableCopyingP", "appendingPathComponent"]
+- !private ["So8NSObjectC", "SearchPathDirectory"]
+- !private ["So8NSObjectC", "SearchPathDomainMask"]
+- !private ["So8NSObjectC", "appendingPathComponent"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "finishTasksAndInvalidate"]
+- !private ["So8NSObjectC", "httpMaximumConnectionsPerHost"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "requestCachePolicy"]
+- !private ["So8NSObjectC", "timeoutIntervalForRequest"]
+- !private ["So8NSObjectC", "timeoutIntervalForResource"]
+- !private ["So8NSObjectC", "urlCache"]
+- !private ["So16NSObjectProtocolP", "SearchPathDirectory"]
+- !private ["So16NSObjectProtocolP", "SearchPathDomainMask"]
+- !private ["So16NSObjectProtocolP", "appendingPathComponent"]
+- !private ["So16NSObjectProtocolP", "default"]
+- !private ["So16NSObjectProtocolP", "finishTasksAndInvalidate"]
+- !private ["So16NSObjectProtocolP", "httpMaximumConnectionsPerHost"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "requestCachePolicy"]
+- !private ["So16NSObjectProtocolP", "timeoutIntervalForRequest"]
+- !private ["So16NSObjectProtocolP", "timeoutIntervalForResource"]
+- !private ["So16NSObjectProtocolP", "urlCache"]
+- !private ["So14NSSecureCodingP", "appendingPathComponent"]
+- !private ["So8NSStringC", "appendingPathComponent"]
+- !private ["s9OptionSetP", "userDomainMask"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s16RawRepresentableP", "applicationSupportDirectory"]
+- !private ["s16RawRepresentableP", "userDomainMask"]
+- !private ["So11FileManagerC19SearchPathDirectoryO", "applicationSupportDirectory"]
+- !private ["So11FileManagerC20SearchPathDomainMaskV", "userDomainMask"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s10SetAlgebraP", "userDomainMask"]
+- !private ["So8URLCacheC", "init"]
+- !private ["So10URLSessionC", "finishTasksAndInvalidate"]
+- !private ["So10URLSessionC", "init"]
+- !private ["So23URLSessionConfigurationC", "default"]
+- !private ["So23URLSessionConfigurationC", "httpMaximumConnectionsPerHost"]
+- !private ["So23URLSessionConfigurationC", "requestCachePolicy"]
+- !private ["So23URLSessionConfigurationC", "timeoutIntervalForRequest"]
+- !private ["So23URLSessionConfigurationC", "timeoutIntervalForResource"]
+- !private ["So23URLSessionConfigurationC", "urlCache"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "appendingPathComponent"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SearchPathDirectory"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SearchPathDomainMask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appendingPathComponent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "finishTasksAndInvalidate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "httpMaximumConnectionsPerHost"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "requestCachePolicy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeoutIntervalForRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeoutIntervalForResource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "urlCache"]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So11FileManagerC"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "3moa3MoaC"
+- "3moa14MoaHttpSessionV"
+- !private "3moa11MoaSettingsV"
+- !private "3moa16MoaSettingsCacheV"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "So11FileManagerC19SearchPathDirectoryO"
+- !private "So11FileManagerC20SearchPathDomainMaskV"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "So8URLCacheC"
+- !private "So10URLSessionC"
+- !private "So23URLSessionConfigurationC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/unextended-module.modulemap"
+interface-hash: "b3ec63c40519be26012ae9e16a974eef"

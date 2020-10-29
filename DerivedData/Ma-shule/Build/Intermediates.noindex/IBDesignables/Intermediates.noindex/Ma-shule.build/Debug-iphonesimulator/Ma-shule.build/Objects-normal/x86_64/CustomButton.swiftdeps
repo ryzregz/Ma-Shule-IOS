@@ -1,0 +1,869 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CustomButton"
+provides-nominal:
+- "8Ma_shule12CustomButtonC"
+provides-member:
+- ["8Ma_shule12CustomButtonC", ""]
+provides-dynamic-lookup:
+- "borderColor"
+- "borderWidth"
+- "cornerRadius"
+- "enableImageRightAligned"
+- "imageBottomPadding"
+- "imageLeftPadding"
+- "imageRightPadding"
+- "imageTopPadding"
+- "layoutSubviews"
+- "titleBottomPadding"
+- "titleLeftPadding"
+- "titleRightPadding"
+- "titleTopPadding"
+depends-top-level:
+- !private "-"
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- "CustomButton"
+- "UIButton"
+- "UIColor"
+depends-member:
+- !private ["8DropDown10AnchorViewP", "borderColor"]
+- !private ["8DropDown10AnchorViewP", "borderWidth"]
+- !private ["8DropDown10AnchorViewP", "bounds"]
+- !private ["8DropDown10AnchorViewP", "cornerRadius"]
+- !private ["8DropDown10AnchorViewP", "enableImageRightAligned"]
+- !private ["8DropDown10AnchorViewP", "imageBottomPadding"]
+- !private ["8DropDown10AnchorViewP", "imageEdgeInsets"]
+- !private ["8DropDown10AnchorViewP", "imageLeftPadding"]
+- !private ["8DropDown10AnchorViewP", "imageRightPadding"]
+- !private ["8DropDown10AnchorViewP", "imageTopPadding"]
+- !private ["8DropDown10AnchorViewP", "imageView"]
+- !private ["8DropDown10AnchorViewP", "init"]
+- !private ["8DropDown10AnchorViewP", "layer"]
+- !private ["8DropDown10AnchorViewP", "layoutSubviews"]
+- !private ["8DropDown10AnchorViewP", "titleBottomPadding"]
+- !private ["8DropDown10AnchorViewP", "titleEdgeInsets"]
+- !private ["8DropDown10AnchorViewP", "titleLeftPadding"]
+- !private ["8DropDown10AnchorViewP", "titleRightPadding"]
+- !private ["8DropDown10AnchorViewP", "titleTopPadding"]
+- ["8DropDown10AnchorViewP", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "borderColor"]
+- !private ["So7CALayerC", "borderWidth"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "masksToBounds"]
+- !private ["So15CALayerDelegateP", "borderColor"]
+- !private ["So15CALayerDelegateP", "borderWidth"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "enableImageRightAligned"]
+- !private ["So15CALayerDelegateP", "imageBottomPadding"]
+- !private ["So15CALayerDelegateP", "imageEdgeInsets"]
+- !private ["So15CALayerDelegateP", "imageLeftPadding"]
+- !private ["So15CALayerDelegateP", "imageRightPadding"]
+- !private ["So15CALayerDelegateP", "imageTopPadding"]
+- !private ["So15CALayerDelegateP", "imageView"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "layoutSubviews"]
+- !private ["So15CALayerDelegateP", "titleBottomPadding"]
+- !private ["So15CALayerDelegateP", "titleEdgeInsets"]
+- !private ["So15CALayerDelegateP", "titleLeftPadding"]
+- !private ["So15CALayerDelegateP", "titleRightPadding"]
+- !private ["So15CALayerDelegateP", "titleTopPadding"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So13CAMediaTimingP", "borderColor"]
+- !private ["So13CAMediaTimingP", "borderWidth"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "masksToBounds"]
+- !private ["SC6CGRectV", "width"]
+- ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "borderColor"]
+- !private ["s7CVarArgP", "borderWidth"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "enableImageRightAligned"]
+- !private ["s7CVarArgP", "imageBottomPadding"]
+- !private ["s7CVarArgP", "imageEdgeInsets"]
+- !private ["s7CVarArgP", "imageLeftPadding"]
+- !private ["s7CVarArgP", "imageRightPadding"]
+- !private ["s7CVarArgP", "imageTopPadding"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "layoutSubviews"]
+- !private ["s7CVarArgP", "masksToBounds"]
+- !private ["s7CVarArgP", "titleBottomPadding"]
+- !private ["s7CVarArgP", "titleEdgeInsets"]
+- !private ["s7CVarArgP", "titleLeftPadding"]
+- !private ["s7CVarArgP", "titleRightPadding"]
+- !private ["s7CVarArgP", "titleTopPadding"]
+- ["s7CVarArgP", ""]
+- ["8Ma_shule12CustomButtonC", "Bool"]
+- ["8Ma_shule12CustomButtonC", "CGFloat"]
+- ["8Ma_shule12CustomButtonC", "UIColor"]
+- ["8Ma_shule12CustomButtonC", "borderColor"]
+- ["8Ma_shule12CustomButtonC", "borderWidth"]
+- !private ["8Ma_shule12CustomButtonC", "bounds"]
+- ["8Ma_shule12CustomButtonC", "cornerRadius"]
+- ["8Ma_shule12CustomButtonC", "deinit"]
+- ["8Ma_shule12CustomButtonC", "enableImageRightAligned"]
+- ["8Ma_shule12CustomButtonC", "imageBottomPadding"]
+- !private ["8Ma_shule12CustomButtonC", "imageEdgeInsets"]
+- ["8Ma_shule12CustomButtonC", "imageLeftPadding"]
+- ["8Ma_shule12CustomButtonC", "imageRightPadding"]
+- ["8Ma_shule12CustomButtonC", "imageTopPadding"]
+- !private ["8Ma_shule12CustomButtonC", "imageView"]
+- ["8Ma_shule12CustomButtonC", "init"]
+- !private ["8Ma_shule12CustomButtonC", "layer"]
+- ["8Ma_shule12CustomButtonC", "layoutSubviews"]
+- ["8Ma_shule12CustomButtonC", "titleBottomPadding"]
+- !private ["8Ma_shule12CustomButtonC", "titleEdgeInsets"]
+- ["8Ma_shule12CustomButtonC", "titleLeftPadding"]
+- ["8Ma_shule12CustomButtonC", "titleRightPadding"]
+- ["8Ma_shule12CustomButtonC", "titleTopPadding"]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "borderColor"]
+- !private ["s28CustomDebugStringConvertibleP", "borderWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "enableImageRightAligned"]
+- !private ["s28CustomDebugStringConvertibleP", "imageBottomPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "imageEdgeInsets"]
+- !private ["s28CustomDebugStringConvertibleP", "imageLeftPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "imageRightPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "imageTopPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "layoutSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "masksToBounds"]
+- !private ["s28CustomDebugStringConvertibleP", "titleBottomPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "titleEdgeInsets"]
+- !private ["s28CustomDebugStringConvertibleP", "titleLeftPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "titleRightPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "titleTopPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "borderColor"]
+- !private ["s23CustomStringConvertibleP", "borderWidth"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "enableImageRightAligned"]
+- !private ["s23CustomStringConvertibleP", "imageBottomPadding"]
+- !private ["s23CustomStringConvertibleP", "imageEdgeInsets"]
+- !private ["s23CustomStringConvertibleP", "imageLeftPadding"]
+- !private ["s23CustomStringConvertibleP", "imageRightPadding"]
+- !private ["s23CustomStringConvertibleP", "imageTopPadding"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "layoutSubviews"]
+- !private ["s23CustomStringConvertibleP", "masksToBounds"]
+- !private ["s23CustomStringConvertibleP", "titleBottomPadding"]
+- !private ["s23CustomStringConvertibleP", "titleEdgeInsets"]
+- !private ["s23CustomStringConvertibleP", "titleLeftPadding"]
+- !private ["s23CustomStringConvertibleP", "titleRightPadding"]
+- !private ["s23CustomStringConvertibleP", "titleTopPadding"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "black"]
+- !private ["s9EquatableP", "borderColor"]
+- !private ["s9EquatableP", "borderWidth"]
+- !private ["s9EquatableP", "bottom"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "cgColor"]
+- !private ["s9EquatableP", "cornerRadius"]
+- !private ["s9EquatableP", "enableImageRightAligned"]
+- !private ["s9EquatableP", "imageBottomPadding"]
+- !private ["s9EquatableP", "imageEdgeInsets"]
+- !private ["s9EquatableP", "imageLeftPadding"]
+- !private ["s9EquatableP", "imageRightPadding"]
+- !private ["s9EquatableP", "imageTopPadding"]
+- !private ["s9EquatableP", "imageView"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "layer"]
+- !private ["s9EquatableP", "layoutSubviews"]
+- !private ["s9EquatableP", "left"]
+- !private ["s9EquatableP", "masksToBounds"]
+- !private ["s9EquatableP", "right"]
+- !private ["s9EquatableP", "titleBottomPadding"]
+- !private ["s9EquatableP", "titleEdgeInsets"]
+- !private ["s9EquatableP", "titleLeftPadding"]
+- !private ["s9EquatableP", "titleRightPadding"]
+- !private ["s9EquatableP", "titleTopPadding"]
+- !private ["s9EquatableP", "top"]
+- !private ["s9EquatableP", "width"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "black"]
+- !private ["s8HashableP", "borderColor"]
+- !private ["s8HashableP", "borderWidth"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "cgColor"]
+- !private ["s8HashableP", "cornerRadius"]
+- !private ["s8HashableP", "enableImageRightAligned"]
+- !private ["s8HashableP", "imageBottomPadding"]
+- !private ["s8HashableP", "imageEdgeInsets"]
+- !private ["s8HashableP", "imageLeftPadding"]
+- !private ["s8HashableP", "imageRightPadding"]
+- !private ["s8HashableP", "imageTopPadding"]
+- !private ["s8HashableP", "imageView"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "layer"]
+- !private ["s8HashableP", "layoutSubviews"]
+- !private ["s8HashableP", "masksToBounds"]
+- !private ["s8HashableP", "titleBottomPadding"]
+- !private ["s8HashableP", "titleEdgeInsets"]
+- !private ["s8HashableP", "titleLeftPadding"]
+- !private ["s8HashableP", "titleRightPadding"]
+- !private ["s8HashableP", "titleTopPadding"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "borderColor"]
+- !private ["So8NSCodingP", "borderWidth"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "enableImageRightAligned"]
+- !private ["So8NSCodingP", "imageBottomPadding"]
+- !private ["So8NSCodingP", "imageEdgeInsets"]
+- !private ["So8NSCodingP", "imageLeftPadding"]
+- !private ["So8NSCodingP", "imageRightPadding"]
+- !private ["So8NSCodingP", "imageTopPadding"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "layoutSubviews"]
+- !private ["So8NSCodingP", "masksToBounds"]
+- !private ["So8NSCodingP", "titleBottomPadding"]
+- !private ["So8NSCodingP", "titleEdgeInsets"]
+- !private ["So8NSCodingP", "titleLeftPadding"]
+- !private ["So8NSCodingP", "titleRightPadding"]
+- !private ["So8NSCodingP", "titleTopPadding"]
+- ["So8NSCodingP", ""]
+- ["So9NSCopyingP", "black"]
+- !private ["So9NSCopyingP", "cgColor"]
+- ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- ["So21NSItemProviderWritingP", "black"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "black"]
+- ["So8NSObjectC", "borderColor"]
+- ["So8NSObjectC", "borderWidth"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "cgColor"]
+- ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "enableImageRightAligned"]
+- ["So8NSObjectC", "imageBottomPadding"]
+- !private ["So8NSObjectC", "imageEdgeInsets"]
+- ["So8NSObjectC", "imageLeftPadding"]
+- ["So8NSObjectC", "imageRightPadding"]
+- ["So8NSObjectC", "imageTopPadding"]
+- !private ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "layoutSubviews"]
+- !private ["So8NSObjectC", "masksToBounds"]
+- ["So8NSObjectC", "titleBottomPadding"]
+- !private ["So8NSObjectC", "titleEdgeInsets"]
+- ["So8NSObjectC", "titleLeftPadding"]
+- ["So8NSObjectC", "titleRightPadding"]
+- ["So8NSObjectC", "titleTopPadding"]
+- ["So16NSObjectProtocolP", "black"]
+- !private ["So16NSObjectProtocolP", "borderColor"]
+- !private ["So16NSObjectProtocolP", "borderWidth"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "cgColor"]
+- !private ["So16NSObjectProtocolP", "cornerRadius"]
+- !private ["So16NSObjectProtocolP", "enableImageRightAligned"]
+- !private ["So16NSObjectProtocolP", "imageBottomPadding"]
+- !private ["So16NSObjectProtocolP", "imageEdgeInsets"]
+- !private ["So16NSObjectProtocolP", "imageLeftPadding"]
+- !private ["So16NSObjectProtocolP", "imageRightPadding"]
+- !private ["So16NSObjectProtocolP", "imageTopPadding"]
+- !private ["So16NSObjectProtocolP", "imageView"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "layer"]
+- !private ["So16NSObjectProtocolP", "layoutSubviews"]
+- !private ["So16NSObjectProtocolP", "masksToBounds"]
+- !private ["So16NSObjectProtocolP", "titleBottomPadding"]
+- !private ["So16NSObjectProtocolP", "titleEdgeInsets"]
+- !private ["So16NSObjectProtocolP", "titleLeftPadding"]
+- !private ["So16NSObjectProtocolP", "titleRightPadding"]
+- !private ["So16NSObjectProtocolP", "titleTopPadding"]
+- ["So16NSObjectProtocolP", ""]
+- ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "borderColor"]
+- !private ["So14NSSecureCodingP", "borderWidth"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "masksToBounds"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "borderColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "borderWidth"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "bounds"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "cornerRadius"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "enableImageRightAligned"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageBottomPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageEdgeInsets"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageLeftPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageRightPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageTopPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageView"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layoutSubviews"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "titleBottomPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "titleEdgeInsets"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "titleLeftPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "titleRightPadding"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "titleTopPadding"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "borderColor"]
+- !private ["So29UIAccessibilityIdentificationP", "borderWidth"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "cornerRadius"]
+- !private ["So29UIAccessibilityIdentificationP", "enableImageRightAligned"]
+- !private ["So29UIAccessibilityIdentificationP", "imageBottomPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "imageEdgeInsets"]
+- !private ["So29UIAccessibilityIdentificationP", "imageLeftPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "imageRightPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "imageTopPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "imageView"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "layoutSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "titleBottomPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "titleEdgeInsets"]
+- !private ["So29UIAccessibilityIdentificationP", "titleLeftPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "titleRightPadding"]
+- !private ["So29UIAccessibilityIdentificationP", "titleTopPadding"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So12UIAppearanceP", "borderColor"]
+- !private ["So12UIAppearanceP", "borderWidth"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "cornerRadius"]
+- !private ["So12UIAppearanceP", "enableImageRightAligned"]
+- !private ["So12UIAppearanceP", "imageBottomPadding"]
+- !private ["So12UIAppearanceP", "imageEdgeInsets"]
+- !private ["So12UIAppearanceP", "imageLeftPadding"]
+- !private ["So12UIAppearanceP", "imageRightPadding"]
+- !private ["So12UIAppearanceP", "imageTopPadding"]
+- !private ["So12UIAppearanceP", "imageView"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "layoutSubviews"]
+- !private ["So12UIAppearanceP", "titleBottomPadding"]
+- !private ["So12UIAppearanceP", "titleEdgeInsets"]
+- !private ["So12UIAppearanceP", "titleLeftPadding"]
+- !private ["So12UIAppearanceP", "titleRightPadding"]
+- !private ["So12UIAppearanceP", "titleTopPadding"]
+- ["So12UIAppearanceP", ""]
+- !private ["So21UIAppearanceContainerP", "borderColor"]
+- !private ["So21UIAppearanceContainerP", "borderWidth"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "cornerRadius"]
+- !private ["So21UIAppearanceContainerP", "enableImageRightAligned"]
+- !private ["So21UIAppearanceContainerP", "imageBottomPadding"]
+- !private ["So21UIAppearanceContainerP", "imageEdgeInsets"]
+- !private ["So21UIAppearanceContainerP", "imageLeftPadding"]
+- !private ["So21UIAppearanceContainerP", "imageRightPadding"]
+- !private ["So21UIAppearanceContainerP", "imageTopPadding"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "layoutSubviews"]
+- !private ["So21UIAppearanceContainerP", "titleBottomPadding"]
+- !private ["So21UIAppearanceContainerP", "titleEdgeInsets"]
+- !private ["So21UIAppearanceContainerP", "titleLeftPadding"]
+- !private ["So21UIAppearanceContainerP", "titleRightPadding"]
+- !private ["So21UIAppearanceContainerP", "titleTopPadding"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So8UIButtonC", "Bool"]
+- ["So8UIButtonC", "CGFloat"]
+- ["So8UIButtonC", "UIColor"]
+- ["So8UIButtonC", "borderColor"]
+- ["So8UIButtonC", "borderWidth"]
+- !private ["So8UIButtonC", "bounds"]
+- ["So8UIButtonC", "cornerRadius"]
+- ["So8UIButtonC", "enableImageRightAligned"]
+- ["So8UIButtonC", "imageBottomPadding"]
+- !private ["So8UIButtonC", "imageEdgeInsets"]
+- ["So8UIButtonC", "imageLeftPadding"]
+- ["So8UIButtonC", "imageRightPadding"]
+- ["So8UIButtonC", "imageTopPadding"]
+- !private ["So8UIButtonC", "imageView"]
+- ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "layer"]
+- ["So8UIButtonC", "layoutSubviews"]
+- ["So8UIButtonC", "titleBottomPadding"]
+- !private ["So8UIButtonC", "titleEdgeInsets"]
+- ["So8UIButtonC", "titleLeftPadding"]
+- ["So8UIButtonC", "titleRightPadding"]
+- ["So8UIButtonC", "titleTopPadding"]
+- ["So8UIButtonC", ""]
+- ["So7UIColorC", "black"]
+- !private ["So7UIColorC", "cgColor"]
+- ["So9UIControlC", "Bool"]
+- ["So9UIControlC", "CGFloat"]
+- ["So9UIControlC", "UIColor"]
+- ["So9UIControlC", "borderColor"]
+- ["So9UIControlC", "borderWidth"]
+- !private ["So9UIControlC", "bounds"]
+- ["So9UIControlC", "cornerRadius"]
+- ["So9UIControlC", "enableImageRightAligned"]
+- ["So9UIControlC", "imageBottomPadding"]
+- !private ["So9UIControlC", "imageEdgeInsets"]
+- ["So9UIControlC", "imageLeftPadding"]
+- ["So9UIControlC", "imageRightPadding"]
+- ["So9UIControlC", "imageTopPadding"]
+- !private ["So9UIControlC", "imageView"]
+- ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "layer"]
+- ["So9UIControlC", "layoutSubviews"]
+- ["So9UIControlC", "titleBottomPadding"]
+- !private ["So9UIControlC", "titleEdgeInsets"]
+- ["So9UIControlC", "titleLeftPadding"]
+- ["So9UIControlC", "titleRightPadding"]
+- ["So9UIControlC", "titleTopPadding"]
+- !private ["So17UICoordinateSpaceP", "borderColor"]
+- !private ["So17UICoordinateSpaceP", "borderWidth"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "cornerRadius"]
+- !private ["So17UICoordinateSpaceP", "enableImageRightAligned"]
+- !private ["So17UICoordinateSpaceP", "imageBottomPadding"]
+- !private ["So17UICoordinateSpaceP", "imageEdgeInsets"]
+- !private ["So17UICoordinateSpaceP", "imageLeftPadding"]
+- !private ["So17UICoordinateSpaceP", "imageRightPadding"]
+- !private ["So17UICoordinateSpaceP", "imageTopPadding"]
+- !private ["So17UICoordinateSpaceP", "imageView"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "layoutSubviews"]
+- !private ["So17UICoordinateSpaceP", "titleBottomPadding"]
+- !private ["So17UICoordinateSpaceP", "titleEdgeInsets"]
+- !private ["So17UICoordinateSpaceP", "titleLeftPadding"]
+- !private ["So17UICoordinateSpaceP", "titleRightPadding"]
+- !private ["So17UICoordinateSpaceP", "titleTopPadding"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So13UIDynamicItemP", "borderColor"]
+- !private ["So13UIDynamicItemP", "borderWidth"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "cornerRadius"]
+- !private ["So13UIDynamicItemP", "enableImageRightAligned"]
+- !private ["So13UIDynamicItemP", "imageBottomPadding"]
+- !private ["So13UIDynamicItemP", "imageEdgeInsets"]
+- !private ["So13UIDynamicItemP", "imageLeftPadding"]
+- !private ["So13UIDynamicItemP", "imageRightPadding"]
+- !private ["So13UIDynamicItemP", "imageTopPadding"]
+- !private ["So13UIDynamicItemP", "imageView"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "layoutSubviews"]
+- !private ["So13UIDynamicItemP", "titleBottomPadding"]
+- !private ["So13UIDynamicItemP", "titleEdgeInsets"]
+- !private ["So13UIDynamicItemP", "titleLeftPadding"]
+- !private ["So13UIDynamicItemP", "titleRightPadding"]
+- !private ["So13UIDynamicItemP", "titleTopPadding"]
+- ["So13UIDynamicItemP", ""]
+- !private ["SC12UIEdgeInsetsV", "bottom"]
+- !private ["SC12UIEdgeInsetsV", "left"]
+- !private ["SC12UIEdgeInsetsV", "right"]
+- !private ["SC12UIEdgeInsetsV", "top"]
+- !private ["So18UIFocusEnvironmentP", "borderColor"]
+- !private ["So18UIFocusEnvironmentP", "borderWidth"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "cornerRadius"]
+- !private ["So18UIFocusEnvironmentP", "enableImageRightAligned"]
+- !private ["So18UIFocusEnvironmentP", "imageBottomPadding"]
+- !private ["So18UIFocusEnvironmentP", "imageEdgeInsets"]
+- !private ["So18UIFocusEnvironmentP", "imageLeftPadding"]
+- !private ["So18UIFocusEnvironmentP", "imageRightPadding"]
+- !private ["So18UIFocusEnvironmentP", "imageTopPadding"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "layoutSubviews"]
+- !private ["So18UIFocusEnvironmentP", "titleBottomPadding"]
+- !private ["So18UIFocusEnvironmentP", "titleEdgeInsets"]
+- !private ["So18UIFocusEnvironmentP", "titleLeftPadding"]
+- !private ["So18UIFocusEnvironmentP", "titleRightPadding"]
+- !private ["So18UIFocusEnvironmentP", "titleTopPadding"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "borderColor"]
+- !private ["So11UIFocusItemP", "borderWidth"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "cornerRadius"]
+- !private ["So11UIFocusItemP", "enableImageRightAligned"]
+- !private ["So11UIFocusItemP", "imageBottomPadding"]
+- !private ["So11UIFocusItemP", "imageEdgeInsets"]
+- !private ["So11UIFocusItemP", "imageLeftPadding"]
+- !private ["So11UIFocusItemP", "imageRightPadding"]
+- !private ["So11UIFocusItemP", "imageTopPadding"]
+- !private ["So11UIFocusItemP", "imageView"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "layoutSubviews"]
+- !private ["So11UIFocusItemP", "titleBottomPadding"]
+- !private ["So11UIFocusItemP", "titleEdgeInsets"]
+- !private ["So11UIFocusItemP", "titleLeftPadding"]
+- !private ["So11UIFocusItemP", "titleRightPadding"]
+- !private ["So11UIFocusItemP", "titleTopPadding"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIImageViewC", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "borderColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "borderWidth"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "cornerRadius"]
+- !private ["So30UIPasteConfigurationSupportingP", "enableImageRightAligned"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageBottomPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageEdgeInsets"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageLeftPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageRightPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageTopPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "layoutSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleBottomPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleEdgeInsets"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleLeftPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleRightPadding"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleTopPadding"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "borderColor"]
+- ["So11UIResponderC", "borderWidth"]
+- !private ["So11UIResponderC", "bounds"]
+- ["So11UIResponderC", "cornerRadius"]
+- ["So11UIResponderC", "enableImageRightAligned"]
+- ["So11UIResponderC", "imageBottomPadding"]
+- !private ["So11UIResponderC", "imageEdgeInsets"]
+- ["So11UIResponderC", "imageLeftPadding"]
+- ["So11UIResponderC", "imageRightPadding"]
+- ["So11UIResponderC", "imageTopPadding"]
+- !private ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "layoutSubviews"]
+- ["So11UIResponderC", "titleBottomPadding"]
+- !private ["So11UIResponderC", "titleEdgeInsets"]
+- ["So11UIResponderC", "titleLeftPadding"]
+- ["So11UIResponderC", "titleRightPadding"]
+- ["So11UIResponderC", "titleTopPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "borderColor"]
+- !private ["So30UIResponderStandardEditActionsP", "borderWidth"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "cornerRadius"]
+- !private ["So30UIResponderStandardEditActionsP", "enableImageRightAligned"]
+- !private ["So30UIResponderStandardEditActionsP", "imageBottomPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "imageEdgeInsets"]
+- !private ["So30UIResponderStandardEditActionsP", "imageLeftPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "imageRightPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "imageTopPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "layoutSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "titleBottomPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "titleEdgeInsets"]
+- !private ["So30UIResponderStandardEditActionsP", "titleLeftPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "titleRightPadding"]
+- !private ["So30UIResponderStandardEditActionsP", "titleTopPadding"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "borderColor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "borderWidth"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "bounds"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cornerRadius"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "enableImageRightAligned"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageBottomPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageEdgeInsets"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageLeftPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageRightPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageTopPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageView"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layoutSubviews"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleBottomPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleEdgeInsets"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleLeftPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleRightPadding"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleTopPadding"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- !private ["So18UITraitEnvironmentP", "borderColor"]
+- !private ["So18UITraitEnvironmentP", "borderWidth"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "cornerRadius"]
+- !private ["So18UITraitEnvironmentP", "enableImageRightAligned"]
+- !private ["So18UITraitEnvironmentP", "imageBottomPadding"]
+- !private ["So18UITraitEnvironmentP", "imageEdgeInsets"]
+- !private ["So18UITraitEnvironmentP", "imageLeftPadding"]
+- !private ["So18UITraitEnvironmentP", "imageRightPadding"]
+- !private ["So18UITraitEnvironmentP", "imageTopPadding"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "layoutSubviews"]
+- !private ["So18UITraitEnvironmentP", "titleBottomPadding"]
+- !private ["So18UITraitEnvironmentP", "titleEdgeInsets"]
+- !private ["So18UITraitEnvironmentP", "titleLeftPadding"]
+- !private ["So18UITraitEnvironmentP", "titleRightPadding"]
+- !private ["So18UITraitEnvironmentP", "titleTopPadding"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "CGFloat"]
+- ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", "borderColor"]
+- ["So6UIViewC", "borderWidth"]
+- !private ["So6UIViewC", "bounds"]
+- ["So6UIViewC", "cornerRadius"]
+- ["So6UIViewC", "enableImageRightAligned"]
+- ["So6UIViewC", "imageBottomPadding"]
+- !private ["So6UIViewC", "imageEdgeInsets"]
+- ["So6UIViewC", "imageLeftPadding"]
+- ["So6UIViewC", "imageRightPadding"]
+- ["So6UIViewC", "imageTopPadding"]
+- !private ["So6UIViewC", "imageView"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- ["So6UIViewC", "layoutSubviews"]
+- ["So6UIViewC", "titleBottomPadding"]
+- !private ["So6UIViewC", "titleEdgeInsets"]
+- ["So6UIViewC", "titleLeftPadding"]
+- ["So6UIViewC", "titleRightPadding"]
+- ["So6UIViewC", "titleTopPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "borderColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "borderWidth"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cornerRadius"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "enableImageRightAligned"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageBottomPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageEdgeInsets"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageLeftPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageRightPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageTopPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layoutSubviews"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleBottomPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleEdgeInsets"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleLeftPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleRightPadding"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleTopPadding"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "borderColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "borderWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enableImageRightAligned"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageBottomPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageEdgeInsets"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageLeftPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageRightPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageTopPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layoutSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "masksToBounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleBottomPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleEdgeInsets"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleLeftPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleRightPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleTopPadding"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "bottom"]
+- !private ["s21_ObjectiveCBridgeableP", "left"]
+- !private ["s21_ObjectiveCBridgeableP", "right"]
+- !private ["s21_ObjectiveCBridgeableP", "top"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- "8DropDown10AnchorViewP"
+- !private "Sb"
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- "8Ma_shule12CustomButtonC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So7UIColorC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- !private "SC12UIEdgeInsetsV"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- !private "So11UIImageViewC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/moa.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Modules/Auk.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Modules/DropDown.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Headers/Auk-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Headers/DropDown-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSButton+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageTransition.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDAnimatedImageRep.h"
+- "/Users/mac/Desktop/Ma-shule/SWRevealViewController/Ma-shule-Bridging-Header.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/mac/Desktop/Ma-shule/SWRevealViewController/SWRevealViewController.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Headers/Auk-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Headers/DropDown-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+interface-hash: "f45d58fa64c7b6eb6ddd7c4a923db346"

@@ -1,0 +1,11 @@
+framework module Auk {
+  umbrella header "Auk-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Auk.Swift {
+    header "Auk-Swift.h"
+    requires objc
+}

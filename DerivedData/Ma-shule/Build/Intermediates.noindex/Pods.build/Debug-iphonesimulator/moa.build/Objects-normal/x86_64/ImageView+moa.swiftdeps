@@ -1,0 +1,198 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So11UIImageViewC", ""]
+- ["So11UIImageViewC", "moa"]
+provides-dynamic-lookup:
+depends-top-level:
+- "CastingPrecedence"
+- "Moa"
+- "MoaImageView"
+- "UInt8"
+- !private "objc_AssociationPolicy"
+- !private "objc_getAssociatedObject"
+- !private "objc_setAssociatedObject"
+- !private "xoAssociationKey"
+depends-member:
+- !private ["So15CALayerDelegateP", "Moa"]
+- !private ["So15CALayerDelegateP", "objc_AssociationPolicy"]
+- !private ["So15CALayerDelegateP", "objc_getAssociatedObject"]
+- !private ["So15CALayerDelegateP", "objc_setAssociatedObject"]
+- !private ["So15CALayerDelegateP", "xoAssociationKey"]
+- !private ["s7CVarArgP", "Moa"]
+- !private ["s7CVarArgP", "objc_AssociationPolicy"]
+- !private ["s7CVarArgP", "objc_getAssociatedObject"]
+- !private ["s7CVarArgP", "objc_setAssociatedObject"]
+- !private ["s7CVarArgP", "xoAssociationKey"]
+- !private ["s28CustomDebugStringConvertibleP", "Moa"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_AssociationPolicy"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_getAssociatedObject"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_setAssociatedObject"]
+- !private ["s28CustomDebugStringConvertibleP", "xoAssociationKey"]
+- !private ["s23CustomStringConvertibleP", "Moa"]
+- !private ["s23CustomStringConvertibleP", "objc_AssociationPolicy"]
+- !private ["s23CustomStringConvertibleP", "objc_getAssociatedObject"]
+- !private ["s23CustomStringConvertibleP", "objc_setAssociatedObject"]
+- !private ["s23CustomStringConvertibleP", "xoAssociationKey"]
+- !private ["s9EquatableP", "Moa"]
+- !private ["s9EquatableP", "OBJC_ASSOCIATION_RETAIN"]
+- !private ["s9EquatableP", "objc_AssociationPolicy"]
+- !private ["s9EquatableP", "objc_getAssociatedObject"]
+- !private ["s9EquatableP", "objc_setAssociatedObject"]
+- !private ["s9EquatableP", "xoAssociationKey"]
+- !private ["s8HashableP", "Moa"]
+- !private ["s8HashableP", "OBJC_ASSOCIATION_RETAIN"]
+- !private ["s8HashableP", "objc_AssociationPolicy"]
+- !private ["s8HashableP", "objc_getAssociatedObject"]
+- !private ["s8HashableP", "objc_setAssociatedObject"]
+- !private ["s8HashableP", "xoAssociationKey"]
+- !private ["3moa3MoaC", "init"]
+- !private ["So8NSCodingP", "Moa"]
+- !private ["So8NSCodingP", "objc_AssociationPolicy"]
+- !private ["So8NSCodingP", "objc_getAssociatedObject"]
+- !private ["So8NSCodingP", "objc_setAssociatedObject"]
+- !private ["So8NSCodingP", "xoAssociationKey"]
+- ["So8NSObjectC", "Moa"]
+- ["So8NSObjectC", "moa"]
+- !private ["So8NSObjectC", "objc_AssociationPolicy"]
+- !private ["So8NSObjectC", "objc_getAssociatedObject"]
+- !private ["So8NSObjectC", "objc_setAssociatedObject"]
+- !private ["So8NSObjectC", "xoAssociationKey"]
+- !private ["So16NSObjectProtocolP", "Moa"]
+- !private ["So16NSObjectProtocolP", "objc_AssociationPolicy"]
+- !private ["So16NSObjectProtocolP", "objc_getAssociatedObject"]
+- !private ["So16NSObjectProtocolP", "objc_setAssociatedObject"]
+- !private ["So16NSObjectProtocolP", "xoAssociationKey"]
+- !private ["s16RawRepresentableP", "OBJC_ASSOCIATION_RETAIN"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "Moa"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "objc_AssociationPolicy"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "objc_getAssociatedObject"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "objc_setAssociatedObject"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "xoAssociationKey"]
+- !private ["So29UIAccessibilityIdentificationP", "Moa"]
+- !private ["So29UIAccessibilityIdentificationP", "objc_AssociationPolicy"]
+- !private ["So29UIAccessibilityIdentificationP", "objc_getAssociatedObject"]
+- !private ["So29UIAccessibilityIdentificationP", "objc_setAssociatedObject"]
+- !private ["So29UIAccessibilityIdentificationP", "xoAssociationKey"]
+- !private ["So12UIAppearanceP", "Moa"]
+- !private ["So12UIAppearanceP", "objc_AssociationPolicy"]
+- !private ["So12UIAppearanceP", "objc_getAssociatedObject"]
+- !private ["So12UIAppearanceP", "objc_setAssociatedObject"]
+- !private ["So12UIAppearanceP", "xoAssociationKey"]
+- !private ["So21UIAppearanceContainerP", "Moa"]
+- !private ["So21UIAppearanceContainerP", "objc_AssociationPolicy"]
+- !private ["So21UIAppearanceContainerP", "objc_getAssociatedObject"]
+- !private ["So21UIAppearanceContainerP", "objc_setAssociatedObject"]
+- !private ["So21UIAppearanceContainerP", "xoAssociationKey"]
+- !private ["So17UICoordinateSpaceP", "Moa"]
+- !private ["So17UICoordinateSpaceP", "objc_AssociationPolicy"]
+- !private ["So17UICoordinateSpaceP", "objc_getAssociatedObject"]
+- !private ["So17UICoordinateSpaceP", "objc_setAssociatedObject"]
+- !private ["So17UICoordinateSpaceP", "xoAssociationKey"]
+- !private ["So13UIDynamicItemP", "Moa"]
+- !private ["So13UIDynamicItemP", "objc_AssociationPolicy"]
+- !private ["So13UIDynamicItemP", "objc_getAssociatedObject"]
+- !private ["So13UIDynamicItemP", "objc_setAssociatedObject"]
+- !private ["So13UIDynamicItemP", "xoAssociationKey"]
+- !private ["So18UIFocusEnvironmentP", "Moa"]
+- !private ["So18UIFocusEnvironmentP", "objc_AssociationPolicy"]
+- !private ["So18UIFocusEnvironmentP", "objc_getAssociatedObject"]
+- !private ["So18UIFocusEnvironmentP", "objc_setAssociatedObject"]
+- !private ["So18UIFocusEnvironmentP", "xoAssociationKey"]
+- !private ["So11UIFocusItemP", "Moa"]
+- !private ["So11UIFocusItemP", "objc_AssociationPolicy"]
+- !private ["So11UIFocusItemP", "objc_getAssociatedObject"]
+- !private ["So11UIFocusItemP", "objc_setAssociatedObject"]
+- !private ["So11UIFocusItemP", "xoAssociationKey"]
+- ["So11UIImageViewC", "Moa"]
+- ["So11UIImageViewC", "moa"]
+- !private ["So11UIImageViewC", "objc_AssociationPolicy"]
+- !private ["So11UIImageViewC", "objc_getAssociatedObject"]
+- !private ["So11UIImageViewC", "objc_setAssociatedObject"]
+- !private ["So11UIImageViewC", "xoAssociationKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "Moa"]
+- !private ["So30UIPasteConfigurationSupportingP", "objc_AssociationPolicy"]
+- !private ["So30UIPasteConfigurationSupportingP", "objc_getAssociatedObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "objc_setAssociatedObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "xoAssociationKey"]
+- ["So11UIResponderC", "Moa"]
+- ["So11UIResponderC", "moa"]
+- !private ["So11UIResponderC", "objc_AssociationPolicy"]
+- !private ["So11UIResponderC", "objc_getAssociatedObject"]
+- !private ["So11UIResponderC", "objc_setAssociatedObject"]
+- !private ["So11UIResponderC", "xoAssociationKey"]
+- !private ["So30UIResponderStandardEditActionsP", "Moa"]
+- !private ["So30UIResponderStandardEditActionsP", "objc_AssociationPolicy"]
+- !private ["So30UIResponderStandardEditActionsP", "objc_getAssociatedObject"]
+- !private ["So30UIResponderStandardEditActionsP", "objc_setAssociatedObject"]
+- !private ["So30UIResponderStandardEditActionsP", "xoAssociationKey"]
+- !private ["So18UITraitEnvironmentP", "Moa"]
+- !private ["So18UITraitEnvironmentP", "objc_AssociationPolicy"]
+- !private ["So18UITraitEnvironmentP", "objc_getAssociatedObject"]
+- !private ["So18UITraitEnvironmentP", "objc_setAssociatedObject"]
+- !private ["So18UITraitEnvironmentP", "xoAssociationKey"]
+- ["So6UIViewC", "Moa"]
+- ["So6UIViewC", "moa"]
+- !private ["So6UIViewC", "objc_AssociationPolicy"]
+- !private ["So6UIViewC", "objc_getAssociatedObject"]
+- !private ["So6UIViewC", "objc_setAssociatedObject"]
+- !private ["So6UIViewC", "xoAssociationKey"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "Moa"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "objc_AssociationPolicy"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "objc_getAssociatedObject"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "objc_setAssociatedObject"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "xoAssociationKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Moa"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_AssociationPolicy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_getAssociatedObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_setAssociatedObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "xoAssociationKey"]
+- !private ["SC22objc_AssociationPolicyO", "OBJC_ASSOCIATION_RETAIN"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- !private "3moa3MoaC"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s16RawRepresentableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So11UIImageViewC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "SC22objc_AssociationPolicyO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/unextended-module.modulemap"
+interface-hash: "487209a7e71f0e2b166516635aa6a4cb"

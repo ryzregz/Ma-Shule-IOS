@@ -1,0 +1,280 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AukScrollViewDelegate"
+provides-nominal:
+- "3Auk0A18ScrollViewDelegateC"
+provides-member:
+- ["3Auk0A18ScrollViewDelegateC", ""]
+provides-dynamic-lookup:
+- "scrollViewDidEndDecelerating"
+- "scrollViewDidEndDragging"
+- "scrollViewDidEndScrollingAnimation"
+- "scrollViewDidEndZooming"
+- "scrollViewDidScroll"
+- "scrollViewDidScrollToTop"
+- "scrollViewDidZoom"
+- "scrollViewShouldScrollToTop"
+- "scrollViewWillBeginDecelerating"
+- "scrollViewWillBeginDragging"
+- "scrollViewWillBeginZooming"
+- "scrollViewWillEndDragging"
+- "viewForZooming"
+depends-top-level:
+- !private "??"
+- "AukScrollViewDelegate"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "CGPoint"
+- "NSObject"
+- "UIScrollView"
+- "UIScrollViewDelegate"
+- "UIView"
+- "UnsafeMutablePointer"
+depends-member:
+- ["3Auk0A18ScrollViewDelegateC", "Bool"]
+- ["3Auk0A18ScrollViewDelegateC", "CGFloat"]
+- ["3Auk0A18ScrollViewDelegateC", "CGPoint"]
+- ["3Auk0A18ScrollViewDelegateC", "UIScrollView"]
+- ["3Auk0A18ScrollViewDelegateC", "UIScrollViewDelegate"]
+- ["3Auk0A18ScrollViewDelegateC", "UIView"]
+- ["3Auk0A18ScrollViewDelegateC", "UnsafeMutablePointer"]
+- ["3Auk0A18ScrollViewDelegateC", "deinit"]
+- ["3Auk0A18ScrollViewDelegateC", "delegate"]
+- ["3Auk0A18ScrollViewDelegateC", "init"]
+- ["3Auk0A18ScrollViewDelegateC", "onScroll"]
+- ["3Auk0A18ScrollViewDelegateC", "onScrollByUser"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidChangeAdjustedContentInset"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidEndDecelerating"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidEndDragging"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidEndScrollingAnimation"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidEndZooming"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidScroll"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidScrollToTop"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewDidZoom"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewShouldScrollToTop"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewWillBeginDecelerating"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewWillBeginDragging"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewWillBeginZooming"]
+- ["3Auk0A18ScrollViewDelegateC", "scrollViewWillEndDragging"]
+- ["3Auk0A18ScrollViewDelegateC", "viewForZooming"]
+- ["3Auk0A18ScrollViewDelegateC", "viewForZoomingInScrollView"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "onScroll"]
+- !private ["s7CVarArgP", "onScrollByUser"]
+- ["s7CVarArgP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s7CVarArgP", "scrollViewDidEndDecelerating"]
+- ["s7CVarArgP", "scrollViewDidEndDragging"]
+- ["s7CVarArgP", "scrollViewDidEndScrollingAnimation"]
+- ["s7CVarArgP", "scrollViewDidEndZooming"]
+- ["s7CVarArgP", "scrollViewDidScroll"]
+- ["s7CVarArgP", "scrollViewDidScrollToTop"]
+- ["s7CVarArgP", "scrollViewDidZoom"]
+- ["s7CVarArgP", "scrollViewShouldScrollToTop"]
+- ["s7CVarArgP", "scrollViewWillBeginDecelerating"]
+- ["s7CVarArgP", "scrollViewWillBeginDragging"]
+- ["s7CVarArgP", "scrollViewWillBeginZooming"]
+- ["s7CVarArgP", "scrollViewWillEndDragging"]
+- ["s7CVarArgP", "viewForZooming"]
+- ["s7CVarArgP", "viewForZoomingInScrollView"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "onScroll"]
+- !private ["s28CustomDebugStringConvertibleP", "onScrollByUser"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndDecelerating"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndDragging"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndScrollingAnimation"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndZooming"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidScroll"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidScrollToTop"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidZoom"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewShouldScrollToTop"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillBeginDecelerating"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillBeginDragging"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillBeginZooming"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillEndDragging"]
+- ["s28CustomDebugStringConvertibleP", "viewForZooming"]
+- ["s28CustomDebugStringConvertibleP", "viewForZoomingInScrollView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "onScroll"]
+- !private ["s23CustomStringConvertibleP", "onScrollByUser"]
+- ["s23CustomStringConvertibleP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndDecelerating"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndDragging"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndScrollingAnimation"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndZooming"]
+- ["s23CustomStringConvertibleP", "scrollViewDidScroll"]
+- ["s23CustomStringConvertibleP", "scrollViewDidScrollToTop"]
+- ["s23CustomStringConvertibleP", "scrollViewDidZoom"]
+- ["s23CustomStringConvertibleP", "scrollViewShouldScrollToTop"]
+- ["s23CustomStringConvertibleP", "scrollViewWillBeginDecelerating"]
+- ["s23CustomStringConvertibleP", "scrollViewWillBeginDragging"]
+- ["s23CustomStringConvertibleP", "scrollViewWillBeginZooming"]
+- ["s23CustomStringConvertibleP", "scrollViewWillEndDragging"]
+- ["s23CustomStringConvertibleP", "viewForZooming"]
+- ["s23CustomStringConvertibleP", "viewForZoomingInScrollView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "onScroll"]
+- !private ["s9EquatableP", "onScrollByUser"]
+- ["s9EquatableP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s9EquatableP", "scrollViewDidEndDecelerating"]
+- ["s9EquatableP", "scrollViewDidEndDragging"]
+- ["s9EquatableP", "scrollViewDidEndScrollingAnimation"]
+- ["s9EquatableP", "scrollViewDidEndZooming"]
+- ["s9EquatableP", "scrollViewDidScroll"]
+- ["s9EquatableP", "scrollViewDidScrollToTop"]
+- ["s9EquatableP", "scrollViewDidZoom"]
+- ["s9EquatableP", "scrollViewShouldScrollToTop"]
+- ["s9EquatableP", "scrollViewWillBeginDecelerating"]
+- ["s9EquatableP", "scrollViewWillBeginDragging"]
+- ["s9EquatableP", "scrollViewWillBeginZooming"]
+- ["s9EquatableP", "scrollViewWillEndDragging"]
+- ["s9EquatableP", "viewForZooming"]
+- ["s9EquatableP", "viewForZoomingInScrollView"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "onScroll"]
+- !private ["s8HashableP", "onScrollByUser"]
+- ["s8HashableP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s8HashableP", "scrollViewDidEndDecelerating"]
+- ["s8HashableP", "scrollViewDidEndDragging"]
+- ["s8HashableP", "scrollViewDidEndScrollingAnimation"]
+- ["s8HashableP", "scrollViewDidEndZooming"]
+- ["s8HashableP", "scrollViewDidScroll"]
+- ["s8HashableP", "scrollViewDidScrollToTop"]
+- ["s8HashableP", "scrollViewDidZoom"]
+- ["s8HashableP", "scrollViewShouldScrollToTop"]
+- ["s8HashableP", "scrollViewWillBeginDecelerating"]
+- ["s8HashableP", "scrollViewWillBeginDragging"]
+- ["s8HashableP", "scrollViewWillBeginZooming"]
+- ["s8HashableP", "scrollViewWillEndDragging"]
+- ["s8HashableP", "viewForZooming"]
+- ["s8HashableP", "viewForZoomingInScrollView"]
+- ["s8HashableP", ""]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "UIScrollView"]
+- ["So8NSObjectC", "UIScrollViewDelegate"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "UnsafeMutablePointer"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "onScroll"]
+- ["So8NSObjectC", "onScrollByUser"]
+- ["So8NSObjectC", "scrollViewDidChangeAdjustedContentInset"]
+- ["So8NSObjectC", "scrollViewDidEndDecelerating"]
+- ["So8NSObjectC", "scrollViewDidEndDragging"]
+- ["So8NSObjectC", "scrollViewDidEndScrollingAnimation"]
+- ["So8NSObjectC", "scrollViewDidEndZooming"]
+- ["So8NSObjectC", "scrollViewDidScroll"]
+- ["So8NSObjectC", "scrollViewDidScrollToTop"]
+- ["So8NSObjectC", "scrollViewDidZoom"]
+- ["So8NSObjectC", "scrollViewShouldScrollToTop"]
+- ["So8NSObjectC", "scrollViewWillBeginDecelerating"]
+- ["So8NSObjectC", "scrollViewWillBeginDragging"]
+- ["So8NSObjectC", "scrollViewWillBeginZooming"]
+- ["So8NSObjectC", "scrollViewWillEndDragging"]
+- ["So8NSObjectC", "viewForZooming"]
+- ["So8NSObjectC", "viewForZoomingInScrollView"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "onScroll"]
+- !private ["So16NSObjectProtocolP", "onScrollByUser"]
+- ["So16NSObjectProtocolP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So16NSObjectProtocolP", "scrollViewDidEndDecelerating"]
+- ["So16NSObjectProtocolP", "scrollViewDidEndDragging"]
+- ["So16NSObjectProtocolP", "scrollViewDidEndScrollingAnimation"]
+- ["So16NSObjectProtocolP", "scrollViewDidEndZooming"]
+- ["So16NSObjectProtocolP", "scrollViewDidScroll"]
+- ["So16NSObjectProtocolP", "scrollViewDidScrollToTop"]
+- ["So16NSObjectProtocolP", "scrollViewDidZoom"]
+- ["So16NSObjectProtocolP", "scrollViewShouldScrollToTop"]
+- ["So16NSObjectProtocolP", "scrollViewWillBeginDecelerating"]
+- ["So16NSObjectProtocolP", "scrollViewWillBeginDragging"]
+- ["So16NSObjectProtocolP", "scrollViewWillBeginZooming"]
+- ["So16NSObjectProtocolP", "scrollViewWillEndDragging"]
+- ["So16NSObjectProtocolP", "viewForZooming"]
+- ["So16NSObjectProtocolP", "viewForZoomingInScrollView"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So20UIScrollViewDelegateP", "delegate"]
+- !private ["So20UIScrollViewDelegateP", "onScroll"]
+- !private ["So20UIScrollViewDelegateP", "onScrollByUser"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndDecelerating"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndDragging"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndScrollingAnimation"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndZooming"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidScroll"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidScrollToTop"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidZoom"]
+- ["So20UIScrollViewDelegateP", "scrollViewShouldScrollToTop"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginDecelerating"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginDragging"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginZooming"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillEndDragging"]
+- ["So20UIScrollViewDelegateP", "viewForZooming"]
+- ["So20UIScrollViewDelegateP", "viewForZoomingInScrollView"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "onScroll"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "onScrollByUser"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidChangeAdjustedContentInset"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndDecelerating"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndDragging"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndScrollingAnimation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndZooming"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidScroll"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidScrollToTop"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidZoom"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewShouldScrollToTop"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillBeginDecelerating"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillBeginDragging"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillBeginZooming"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillEndDragging"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewForZooming"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewForZoomingInScrollView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- "3Auk0A18ScrollViewDelegateC"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So20UIScrollViewDelegateP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/moa.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/Auk/Auk-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Auk.build/unextended-module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/module.modulemap"
+interface-hash: "2e80967152aa8a78053d8324235c6592"

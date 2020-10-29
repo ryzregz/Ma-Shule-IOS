@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "9cbd3f8f06b8ef68f41639abc43a8744"
+build_time: [1536310984, 612402000]
+inputs:
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/ImageView+moa.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Moa.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Logger/MoaConsoleLogger.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Http/MoaError.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Http/MoaHttp.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Http/MoaHttpImage.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Http/MoaHttpImageDownloader.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Http/MoaHttpSession.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/MoaImageDownloader.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Logger/MoaLoggerCallback.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Logger/MoaLoggerText.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Logger/MoaLogType.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/MoaSettings.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/MoaSettingsCache.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Simulator/MoaSimulatedImageDownloader.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Simulator/MoaSimulator.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Utils/MoaString.swift": [1533722361, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/moa/Moa/Utils/MoaTime.swift": [1533722361, 0]

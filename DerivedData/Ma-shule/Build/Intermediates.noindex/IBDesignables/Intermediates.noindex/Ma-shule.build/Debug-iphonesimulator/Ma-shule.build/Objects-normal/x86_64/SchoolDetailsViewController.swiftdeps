@@ -1,0 +1,587 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SchoolDetailsViewController"
+provides-nominal:
+- "8Ma_shule27SchoolDetailsViewControllerC"
+- "8Ma_shule27SchoolDetailsViewControllerC10StoryboardV"
+provides-member:
+- ["8Ma_shule27SchoolDetailsViewControllerC", ""]
+- ["8Ma_shule27SchoolDetailsViewControllerC10StoryboardV", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "prepare"
+- "schoolDeatilHeaderView"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "CGRect"
+- "CastingPrecedence"
+- "ImageItem"
+- "SchoolDetailsViewController"
+- "SchoolImageHeaderView"
+- !private "ShoolImagesPageViewController"
+- "StringLiteralType"
+- "UIActivityIndicatorView"
+- "UIActivityIndicatorViewStyle"
+- "UILabel"
+- "UIStoryboardSegue"
+- "UIView"
+- "UIViewController"
+depends-member:
+- ["8DropDown10AnchorViewP", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["So15CALayerDelegateP", "init"]
+- ["SC6CGRectV", "init"]
+- ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "Storyboard"]
+- ["s7CVarArgP", "UIActivityIndicatorView"]
+- ["s7CVarArgP", "UIActivityIndicatorViewStyle"]
+- ["s7CVarArgP", "UILabel"]
+- ["s7CVarArgP", "UIView"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "identifier"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "pageViewControllerDelegate"]
+- !private ["s7CVarArgP", "schoolDeatilHeaderView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "Storyboard"]
+- ["s28CustomDebugStringConvertibleP", "UIActivityIndicatorView"]
+- ["s28CustomDebugStringConvertibleP", "UIActivityIndicatorViewStyle"]
+- ["s28CustomDebugStringConvertibleP", "UILabel"]
+- ["s28CustomDebugStringConvertibleP", "UIView"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "pageViewControllerDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "schoolDeatilHeaderView"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "Storyboard"]
+- ["s23CustomStringConvertibleP", "UIActivityIndicatorView"]
+- ["s23CustomStringConvertibleP", "UIActivityIndicatorViewStyle"]
+- ["s23CustomStringConvertibleP", "UILabel"]
+- ["s23CustomStringConvertibleP", "UIView"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "pageViewControllerDelegate"]
+- !private ["s23CustomStringConvertibleP", "schoolDeatilHeaderView"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "CGRect"]
+- !private ["s9EquatableP", "Storyboard"]
+- ["s9EquatableP", "UIActivityIndicatorView"]
+- ["s9EquatableP", "UIActivityIndicatorViewStyle"]
+- ["s9EquatableP", "UILabel"]
+- ["s9EquatableP", "UIView"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "destination"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "identifier"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "pageViewControllerDelegate"]
+- !private ["s9EquatableP", "schoolDeatilHeaderView"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", "whiteLarge"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s8HashableP", "CGRect"]
+- !private ["s8HashableP", "Storyboard"]
+- ["s8HashableP", "UIActivityIndicatorView"]
+- ["s8HashableP", "UIActivityIndicatorViewStyle"]
+- ["s8HashableP", "UILabel"]
+- ["s8HashableP", "UIView"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "destination"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "identifier"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "pageViewControllerDelegate"]
+- !private ["s8HashableP", "schoolDeatilHeaderView"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", "whiteLarge"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "Storyboard"]
+- ["So8NSCodingP", "UIActivityIndicatorView"]
+- ["So8NSCodingP", "UIActivityIndicatorViewStyle"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", "UIView"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "pageViewControllerDelegate"]
+- !private ["So8NSCodingP", "schoolDeatilHeaderView"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- ["So9NSCopyingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "CGRect"]
+- !private ["So26NSExtensionRequestHandlingP", "Storyboard"]
+- ["So26NSExtensionRequestHandlingP", "UIActivityIndicatorView"]
+- ["So26NSExtensionRequestHandlingP", "UIActivityIndicatorViewStyle"]
+- ["So26NSExtensionRequestHandlingP", "UILabel"]
+- ["So26NSExtensionRequestHandlingP", "UIView"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "pageViewControllerDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "schoolDeatilHeaderView"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "ImageItem"]
+- ["So8NSObjectC", "SchoolImageHeaderView"]
+- !private ["So8NSObjectC", "ShoolImagesPageViewController"]
+- !private ["So8NSObjectC", "Storyboard"]
+- ["So8NSObjectC", "UIActivityIndicatorView"]
+- ["So8NSObjectC", "UIActivityIndicatorViewStyle"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "activityIndicator"]
+- ["So8NSObjectC", "boxView"]
+- !private ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "identifier"]
+- ["So8NSObjectC", "image_item"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "pageViewControllerDelegate"]
+- ["So8NSObjectC", "prepare"]
+- ["So8NSObjectC", "schoolDeatilHeaderView"]
+- ["So8NSObjectC", "textLabel"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So16NSObjectProtocolP", "CGRect"]
+- !private ["So16NSObjectProtocolP", "Storyboard"]
+- ["So16NSObjectProtocolP", "UIActivityIndicatorView"]
+- ["So16NSObjectProtocolP", "UIActivityIndicatorViewStyle"]
+- ["So16NSObjectProtocolP", "UILabel"]
+- ["So16NSObjectProtocolP", "UIView"]
+- !private ["So16NSObjectProtocolP", "destination"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "identifier"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "pageViewControllerDelegate"]
+- !private ["So16NSObjectProtocolP", "schoolDeatilHeaderView"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "whiteLarge"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "CGRect"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "ImageItem"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "SchoolImageHeaderView"]
+- !private ["8Ma_shule27SchoolDetailsViewControllerC", "ShoolImagesPageViewController"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "Storyboard"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "UIActivityIndicatorView"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "UIActivityIndicatorViewStyle"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "UILabel"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "UIStoryboardSegue"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "UIView"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "activityIndicator"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "boxView"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "deinit"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "didReceiveMemoryWarning"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "image_item"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "init"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "prepare"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "schoolDeatilHeaderView"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "textLabel"]
+- ["8Ma_shule27SchoolDetailsViewControllerC", "viewDidLoad"]
+- !private ["8Ma_shule21SchoolImageHeaderViewC", "deinit"]
+- ["s8SequenceP", "init"]
+- !private ["8Ma_shule29ShoolImagesPageViewControllerC", "pageViewControllerDelegate"]
+- ["8Ma_shule27SchoolDetailsViewControllerC10StoryboardV", "init"]
+- ["8Ma_shule27SchoolDetailsViewControllerC10StoryboardV", "showSchoolImagesPageViewController"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So23UIActivityIndicatorViewC", "init"]
+- ["SC28UIActivityIndicatorViewStyleO", "whiteLarge"]
+- ["So12UIAppearanceP", "init"]
+- ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "Storyboard"]
+- ["So21UIAppearanceContainerP", "UIActivityIndicatorView"]
+- ["So21UIAppearanceContainerP", "UIActivityIndicatorViewStyle"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", "UIView"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "pageViewControllerDelegate"]
+- !private ["So21UIAppearanceContainerP", "schoolDeatilHeaderView"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So18UIContentContainerP", "CGRect"]
+- !private ["So18UIContentContainerP", "Storyboard"]
+- ["So18UIContentContainerP", "UIActivityIndicatorView"]
+- ["So18UIContentContainerP", "UIActivityIndicatorViewStyle"]
+- ["So18UIContentContainerP", "UILabel"]
+- ["So18UIContentContainerP", "UIView"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "pageViewControllerDelegate"]
+- !private ["So18UIContentContainerP", "schoolDeatilHeaderView"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- ["So30UIContentSizeCategoryAdjustingP", "init"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So13UIDynamicItemP", "init"]
+- ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "Storyboard"]
+- ["So18UIFocusEnvironmentP", "UIActivityIndicatorView"]
+- ["So18UIFocusEnvironmentP", "UIActivityIndicatorViewStyle"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", "UIView"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "pageViewControllerDelegate"]
+- !private ["So18UIFocusEnvironmentP", "schoolDeatilHeaderView"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So11UIFocusItemP", "init"]
+- ["So7UILabelC", "init"]
+- !private ["So20UIPageViewControllerC", "pageViewControllerDelegate"]
+- !private ["So30UIPageViewControllerDataSourceP", "pageViewControllerDelegate"]
+- !private ["So28UIPageViewControllerDelegateP", "pageViewControllerDelegate"]
+- ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "Storyboard"]
+- ["So30UIPasteConfigurationSupportingP", "UIActivityIndicatorView"]
+- ["So30UIPasteConfigurationSupportingP", "UIActivityIndicatorViewStyle"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", "UIView"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "pageViewControllerDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "schoolDeatilHeaderView"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "ImageItem"]
+- ["So11UIResponderC", "SchoolImageHeaderView"]
+- !private ["So11UIResponderC", "ShoolImagesPageViewController"]
+- !private ["So11UIResponderC", "Storyboard"]
+- ["So11UIResponderC", "UIActivityIndicatorView"]
+- ["So11UIResponderC", "UIActivityIndicatorViewStyle"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "activityIndicator"]
+- ["So11UIResponderC", "boxView"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "image_item"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "pageViewControllerDelegate"]
+- ["So11UIResponderC", "prepare"]
+- ["So11UIResponderC", "schoolDeatilHeaderView"]
+- ["So11UIResponderC", "textLabel"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "Storyboard"]
+- ["So30UIResponderStandardEditActionsP", "UIActivityIndicatorView"]
+- ["So30UIResponderStandardEditActionsP", "UIActivityIndicatorViewStyle"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", "UIView"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "pageViewControllerDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "schoolDeatilHeaderView"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So16UIStateRestoringP", "CGRect"]
+- !private ["So16UIStateRestoringP", "Storyboard"]
+- ["So16UIStateRestoringP", "UIActivityIndicatorView"]
+- ["So16UIStateRestoringP", "UIActivityIndicatorViewStyle"]
+- ["So16UIStateRestoringP", "UILabel"]
+- ["So16UIStateRestoringP", "UIView"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "pageViewControllerDelegate"]
+- !private ["So16UIStateRestoringP", "schoolDeatilHeaderView"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- !private ["So17UIStoryboardSegueC", "identifier"]
+- ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "Storyboard"]
+- ["So18UITraitEnvironmentP", "UIActivityIndicatorView"]
+- ["So18UITraitEnvironmentP", "UIActivityIndicatorViewStyle"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", "UIView"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "pageViewControllerDelegate"]
+- !private ["So18UITraitEnvironmentP", "schoolDeatilHeaderView"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So6UIViewC", "init"]
+- ["So16UIViewControllerC", "CGRect"]
+- ["So16UIViewControllerC", "ImageItem"]
+- ["So16UIViewControllerC", "SchoolImageHeaderView"]
+- !private ["So16UIViewControllerC", "ShoolImagesPageViewController"]
+- !private ["So16UIViewControllerC", "Storyboard"]
+- ["So16UIViewControllerC", "UIActivityIndicatorView"]
+- ["So16UIViewControllerC", "UIActivityIndicatorViewStyle"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", "activityIndicator"]
+- ["So16UIViewControllerC", "boxView"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "image_item"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "pageViewControllerDelegate"]
+- ["So16UIViewControllerC", "prepare"]
+- ["So16UIViewControllerC", "schoolDeatilHeaderView"]
+- ["So16UIViewControllerC", "textLabel"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Storyboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIActivityIndicatorView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIActivityIndicatorViewStyle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UILabel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "identifier"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pageViewControllerDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "schoolDeatilHeaderView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "8DropDown10AnchorViewP"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "So15CALayerDelegateP"
+- "SC6CGRectV"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- "8Ma_shule27SchoolDetailsViewControllerC"
+- !private "8Ma_shule21SchoolImageHeaderViewC"
+- "s8SequenceP"
+- !private "8Ma_shule29ShoolImagesPageViewControllerC"
+- "8Ma_shule27SchoolDetailsViewControllerC10StoryboardV"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So23UIActivityIndicatorViewC"
+- "SC28UIActivityIndicatorViewStyleO"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So7UILabelC"
+- !private "So20UIPageViewControllerC"
+- !private "So30UIPageViewControllerDataSourceP"
+- !private "So28UIPageViewControllerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "9Alamofire14URLConvertibleP"
+- "s23_BidirectionalIndexableP"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/moa.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Modules/Auk.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Modules/DropDown.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Headers/Auk-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Headers/DropDown-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSButton+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageTransition.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDAnimatedImageRep.h"
+- "/Users/mac/Desktop/Ma-shule/SWRevealViewController/Ma-shule-Bridging-Header.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/mac/Desktop/Ma-shule/SWRevealViewController/SWRevealViewController.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Headers/Auk-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Headers/DropDown-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+interface-hash: "bd0939cb80f15c5cb04f0289571d5080"

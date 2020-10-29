@@ -1,0 +1,10 @@
+framework module moa {
+  umbrella header "moa-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module moa.__Swift {
+    exclude header "moa-Swift.h"
+}

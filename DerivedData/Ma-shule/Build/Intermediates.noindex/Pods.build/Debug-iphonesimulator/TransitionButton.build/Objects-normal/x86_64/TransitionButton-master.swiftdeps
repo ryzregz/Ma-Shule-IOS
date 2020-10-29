@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "709e4712fa3a62241731aff0b57b7122"
+build_time: [1536311107, 525829000]
+inputs:
+  "/Users/mac/Desktop/Ma-shule/Pods/TransitionButton/Source/CGRectExtension.swift": [1536214564, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/TransitionButton/Source/CustomTransitionViewController.swift": [1536214564, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/TransitionButton/Source/FadeTransition.swift": [1536214564, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/TransitionButton/Source/SpinerLayer.swift": [1536214564, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/TransitionButton/Source/TransitionButton.swift": [1536214564, 0]

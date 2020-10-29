@@ -1,0 +1,11 @@
+framework module moa {
+  umbrella header "moa-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module moa.Swift {
+    header "moa-Swift.h"
+    requires objc
+}

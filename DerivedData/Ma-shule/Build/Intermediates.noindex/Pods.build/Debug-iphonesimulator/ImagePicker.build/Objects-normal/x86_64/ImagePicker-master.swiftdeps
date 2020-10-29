@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "9d2c6b15bb76aa6390effb1b06429dd1"
+build_time: [1534168702, 697960000]
+inputs:
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/AssetManager.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/BottomView/BottomContainerView.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/BottomView/ButtonPicker.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/CameraView/CameraMan.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/CameraView/CameraView.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/Configuration.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/Extensions/ConstraintsSetup.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/Helper.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/ImageGallery/ImageGalleryLayout.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/ImageGallery/ImageGalleryView.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/ImageGallery/ImageGalleryViewCell.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/ImageGallery/ImageGalleryViewDataSource.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/ImagePickerController.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/BottomView/ImageStack.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/LocationManager.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/BottomView/StackView.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/TopView/TopView.swift": [1533712275, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/ImagePicker/Source/ImageGallery/VideoInfoView.swift": [1533712275, 0]

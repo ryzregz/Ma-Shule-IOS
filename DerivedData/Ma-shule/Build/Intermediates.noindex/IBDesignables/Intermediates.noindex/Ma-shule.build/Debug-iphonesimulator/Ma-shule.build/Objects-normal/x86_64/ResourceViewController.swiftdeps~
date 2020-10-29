@@ -1,0 +1,1088 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ResourceViewController"
+provides-nominal:
+- "8Ma_shule22ResourceViewControllerC"
+provides-member:
+- ["8Ma_shule22ResourceViewControllerC", ""]
+- ["8Ma_shule22ResourceViewControllerC", "numberOfSections"]
+- ["8Ma_shule22ResourceViewControllerC", "tableView"]
+- ["8Ma_shule22ResourceViewControllerC", "tableView"]
+- ["8Ma_shule22ResourceViewControllerC", "tableView"]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "numberOfSections"
+- "tableView"
+- "unwindToHomeScreen"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "Alamofire"
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "Config"
+- !private "Dictionary"
+- !private "DispatchQueue"
+- !private "DisplayResourceController"
+- !private "HTTPHeaders"
+- !private "HTTPMethod"
+- "IndexPath"
+- "Int"
+- !private "JSONEncoding"
+- !private "Parameters"
+- "Resource"
+- !private "ResourceCell"
+- "ResourceViewController"
+- !private "String"
+- !private "UINavigationController"
+- "UIStoryboardSegue"
+- "UITableView"
+- "UITableViewCell"
+- "UITableViewController"
+- !private "print"
+depends-member:
+- !private ["8DropDown10AnchorViewP", "dequeueReusableCell"]
+- !private ["8DropDown10AnchorViewP", "reloadData"]
+- !private ["8DropDown10AnchorViewP", "resource"]
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- ["Sa", "init"]
+- !private ["Sa", "removeAll"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "doc_url"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "doc_url"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "removeAll"]
+- !private ["s23BidirectionalCollectionP", "row"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "dequeueReusableCell"]
+- !private ["So15CALayerDelegateP", "reloadData"]
+- !private ["So15CALayerDelegateP", "resource"]
+- !private ["s7CVarArgP", "Alamofire"]
+- !private ["s7CVarArgP", "Config"]
+- !private ["s7CVarArgP", "DispatchQueue"]
+- !private ["s7CVarArgP", "HTTPMethod"]
+- !private ["s7CVarArgP", "JSONEncoding"]
+- ["s7CVarArgP", "Resource"]
+- !private ["s7CVarArgP", "UINavigationController"]
+- !private ["s7CVarArgP", "allResources"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dequeueReusableCell"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "getAllResources"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "reloadData"]
+- !private ["s7CVarArgP", "removeAll"]
+- !private ["s7CVarArgP", "resource"]
+- !private ["s7CVarArgP", "resources"]
+- !private ["s7CVarArgP", "storyboard"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "tableView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "doc_url"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "removeAll"]
+- !private ["s10CollectionP", "row"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "row"]
+- !private ["8Ma_shule6ConfigC", "base_url"]
+- !private ["8Ma_shule6ConfigC", "doc_url"]
+- !private ["8Ma_shule6ConfigC", "sharedManager"]
+- !private ["s28CustomDebugStringConvertibleP", "Alamofire"]
+- !private ["s28CustomDebugStringConvertibleP", "Config"]
+- !private ["s28CustomDebugStringConvertibleP", "DispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "HTTPMethod"]
+- !private ["s28CustomDebugStringConvertibleP", "JSONEncoding"]
+- ["s28CustomDebugStringConvertibleP", "Resource"]
+- !private ["s28CustomDebugStringConvertibleP", "UINavigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "allResources"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dequeueReusableCell"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "doc_url"]
+- !private ["s28CustomDebugStringConvertibleP", "error"]
+- !private ["s28CustomDebugStringConvertibleP", "getAllResources"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "reloadData"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAll"]
+- !private ["s28CustomDebugStringConvertibleP", "resource"]
+- !private ["s28CustomDebugStringConvertibleP", "resources"]
+- !private ["s28CustomDebugStringConvertibleP", "responseJSON"]
+- !private ["s28CustomDebugStringConvertibleP", "result"]
+- !private ["s28CustomDebugStringConvertibleP", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "storyboard"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "tableView"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "doc_url"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "removeAll"]
+- !private ["s17CustomReflectableP", "row"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "Alamofire"]
+- !private ["s23CustomStringConvertibleP", "Config"]
+- !private ["s23CustomStringConvertibleP", "DispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "HTTPMethod"]
+- !private ["s23CustomStringConvertibleP", "JSONEncoding"]
+- ["s23CustomStringConvertibleP", "Resource"]
+- !private ["s23CustomStringConvertibleP", "UINavigationController"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "allResources"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dequeueReusableCell"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "doc_url"]
+- !private ["s23CustomStringConvertibleP", "error"]
+- !private ["s23CustomStringConvertibleP", "getAllResources"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "reloadData"]
+- !private ["s23CustomStringConvertibleP", "removeAll"]
+- !private ["s23CustomStringConvertibleP", "resource"]
+- !private ["s23CustomStringConvertibleP", "resources"]
+- !private ["s23CustomStringConvertibleP", "responseJSON"]
+- !private ["s23CustomStringConvertibleP", "result"]
+- !private ["s23CustomStringConvertibleP", "row"]
+- !private ["s23CustomStringConvertibleP", "storyboard"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "tableView"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["9Alamofire11DataRequestC", "responseJSON"]
+- !private ["9Alamofire12DataResponseV", "result"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "count"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "removeAll"]
+- !private ["s9DecodableP", "row"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "count"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "removeAll"]
+- !private ["s9EncodableP", "row"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "Alamofire"]
+- !private ["s9EquatableP", "Config"]
+- !private ["s9EquatableP", "DispatchQueue"]
+- !private ["s9EquatableP", "HTTPMethod"]
+- !private ["s9EquatableP", "JSONEncoding"]
+- ["s9EquatableP", "Resource"]
+- !private ["s9EquatableP", "UINavigationController"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "allResources"]
+- !private ["s9EquatableP", "async"]
+- !private ["s9EquatableP", "dequeueReusableCell"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "getAllResources"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "instantiateViewController"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "post"]
+- !private ["s9EquatableP", "present"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "reloadData"]
+- !private ["s9EquatableP", "resource"]
+- !private ["s9EquatableP", "resources"]
+- !private ["s9EquatableP", "row"]
+- !private ["s9EquatableP", "storyboard"]
+- !private ["s9EquatableP", "tableView"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "doc_url"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeAll"]
+- !private ["s25ExpressibleByArrayLiteralP", "row"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["9Alamofire10HTTPMethodO", "post"]
+- !private ["s8HashableP", "Alamofire"]
+- !private ["s8HashableP", "Config"]
+- !private ["s8HashableP", "DispatchQueue"]
+- !private ["s8HashableP", "HTTPMethod"]
+- !private ["s8HashableP", "JSONEncoding"]
+- ["s8HashableP", "Resource"]
+- !private ["s8HashableP", "UINavigationController"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "allResources"]
+- !private ["s8HashableP", "async"]
+- !private ["s8HashableP", "dequeueReusableCell"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "getAllResources"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "instantiateViewController"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "post"]
+- !private ["s8HashableP", "present"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "reloadData"]
+- !private ["s8HashableP", "resource"]
+- !private ["s8HashableP", "resources"]
+- !private ["s8HashableP", "row"]
+- !private ["s8HashableP", "storyboard"]
+- !private ["s8HashableP", "tableView"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["10Foundation9IndexPathV", "row"]
+- !private ["9Alamofire12JSONEncodingV", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "doc_url"]
+- ["s17MutableCollectionP", "init"]
+- !private ["s17MutableCollectionP", "removeAll"]
+- !private ["s17MutableCollectionP", "row"]
+- !private ["s17MutableCollectionP", "subscript"]
+- !private ["So8NSCodingP", "Alamofire"]
+- !private ["So8NSCodingP", "Config"]
+- !private ["So8NSCodingP", "DispatchQueue"]
+- !private ["So8NSCodingP", "HTTPMethod"]
+- !private ["So8NSCodingP", "JSONEncoding"]
+- ["So8NSCodingP", "Resource"]
+- !private ["So8NSCodingP", "UINavigationController"]
+- !private ["So8NSCodingP", "allResources"]
+- !private ["So8NSCodingP", "dequeueReusableCell"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "getAllResources"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "reloadData"]
+- !private ["So8NSCodingP", "resource"]
+- !private ["So8NSCodingP", "resources"]
+- !private ["So8NSCodingP", "storyboard"]
+- !private ["So8NSCodingP", "tableView"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "Alamofire"]
+- !private ["So26NSExtensionRequestHandlingP", "Config"]
+- !private ["So26NSExtensionRequestHandlingP", "DispatchQueue"]
+- !private ["So26NSExtensionRequestHandlingP", "HTTPMethod"]
+- !private ["So26NSExtensionRequestHandlingP", "JSONEncoding"]
+- ["So26NSExtensionRequestHandlingP", "Resource"]
+- !private ["So26NSExtensionRequestHandlingP", "UINavigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "allResources"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "getAllResources"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "resources"]
+- !private ["So26NSExtensionRequestHandlingP", "storyboard"]
+- !private ["So26NSExtensionRequestHandlingP", "tableView"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "Alamofire"]
+- !private ["So8NSObjectC", "Config"]
+- !private ["So8NSObjectC", "DispatchQueue"]
+- !private ["So8NSObjectC", "DisplayResourceController"]
+- !private ["So8NSObjectC", "HTTPHeaders"]
+- !private ["So8NSObjectC", "HTTPMethod"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "JSONEncoding"]
+- !private ["So8NSObjectC", "Parameters"]
+- ["So8NSObjectC", "Resource"]
+- !private ["So8NSObjectC", "ResourceCell"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UINavigationController"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "UITableView"]
+- ["So8NSObjectC", "UITableViewCell"]
+- ["So8NSObjectC", "allResources"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "dequeueReusableCell"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "getAllResources"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "numberOfSections"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "reloadData"]
+- !private ["So8NSObjectC", "resource"]
+- ["So8NSObjectC", "resources"]
+- !private ["So8NSObjectC", "storyboard"]
+- ["So8NSObjectC", "tableView"]
+- ["So8NSObjectC", "unwindToHomeScreen"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "Alamofire"]
+- !private ["So16NSObjectProtocolP", "Config"]
+- !private ["So16NSObjectProtocolP", "DispatchQueue"]
+- !private ["So16NSObjectProtocolP", "HTTPMethod"]
+- !private ["So16NSObjectProtocolP", "JSONEncoding"]
+- ["So16NSObjectProtocolP", "Resource"]
+- !private ["So16NSObjectProtocolP", "UINavigationController"]
+- !private ["So16NSObjectProtocolP", "allResources"]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "dequeueReusableCell"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "getAllResources"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "instantiateViewController"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "present"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "reloadData"]
+- !private ["So16NSObjectProtocolP", "resource"]
+- !private ["So16NSObjectProtocolP", "resources"]
+- !private ["So16NSObjectProtocolP", "storyboard"]
+- !private ["So16NSObjectProtocolP", "tableView"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["9Alamofire17ParameterEncodingP", "init"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "doc_url"]
+- ["s22RandomAccessCollectionP", "init"]
+- !private ["s22RandomAccessCollectionP", "removeAll"]
+- !private ["s22RandomAccessCollectionP", "row"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "doc_url"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "removeAll"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s16RawRepresentableP", "post"]
+- !private ["10Foundation20ReferenceConvertibleP", "row"]
+- !private ["9Alamofire7RequestC", "responseJSON"]
+- !private ["8Ma_shule8ResourceC", "doc_url"]
+- !private ["8Ma_shule8ResourceC", "init"]
+- !private ["8Ma_shule12ResourceCellC", "resource"]
+- !private ["8Ma_shule22ResourceViewControllerC", "Alamofire"]
+- !private ["8Ma_shule22ResourceViewControllerC", "Config"]
+- !private ["8Ma_shule22ResourceViewControllerC", "DispatchQueue"]
+- !private ["8Ma_shule22ResourceViewControllerC", "DisplayResourceController"]
+- !private ["8Ma_shule22ResourceViewControllerC", "HTTPHeaders"]
+- !private ["8Ma_shule22ResourceViewControllerC", "HTTPMethod"]
+- ["8Ma_shule22ResourceViewControllerC", "IndexPath"]
+- ["8Ma_shule22ResourceViewControllerC", "Int"]
+- !private ["8Ma_shule22ResourceViewControllerC", "JSONEncoding"]
+- !private ["8Ma_shule22ResourceViewControllerC", "Parameters"]
+- ["8Ma_shule22ResourceViewControllerC", "Resource"]
+- !private ["8Ma_shule22ResourceViewControllerC", "ResourceCell"]
+- !private ["8Ma_shule22ResourceViewControllerC", "String"]
+- !private ["8Ma_shule22ResourceViewControllerC", "UINavigationController"]
+- ["8Ma_shule22ResourceViewControllerC", "UIStoryboardSegue"]
+- ["8Ma_shule22ResourceViewControllerC", "UITableView"]
+- ["8Ma_shule22ResourceViewControllerC", "UITableViewCell"]
+- ["8Ma_shule22ResourceViewControllerC", "allResources"]
+- ["8Ma_shule22ResourceViewControllerC", "deinit"]
+- ["8Ma_shule22ResourceViewControllerC", "didReceiveMemoryWarning"]
+- ["8Ma_shule22ResourceViewControllerC", "getAllResources"]
+- ["8Ma_shule22ResourceViewControllerC", "init"]
+- ["8Ma_shule22ResourceViewControllerC", "numberOfSections"]
+- !private ["8Ma_shule22ResourceViewControllerC", "present"]
+- !private ["8Ma_shule22ResourceViewControllerC", "print"]
+- ["8Ma_shule22ResourceViewControllerC", "resources"]
+- !private ["8Ma_shule22ResourceViewControllerC", "storyboard"]
+- ["8Ma_shule22ResourceViewControllerC", "tableView"]
+- ["8Ma_shule22ResourceViewControllerC", "unwindToHomeScreen"]
+- ["8Ma_shule22ResourceViewControllerC", "viewDidLoad"]
+- !private ["9Alamofire8ResponseP", "result"]
+- !private ["9Alamofire6ResultO", "error"]
+- !private ["9Alamofire6ResultO", "value"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "doc_url"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "removeAll"]
+- !private ["s8SequenceP", "row"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
+- !private ["So29UIAccessibilityIdentificationP", "reloadData"]
+- !private ["So29UIAccessibilityIdentificationP", "resource"]
+- !private ["So12UIAppearanceP", "dequeueReusableCell"]
+- !private ["So12UIAppearanceP", "reloadData"]
+- !private ["So12UIAppearanceP", "resource"]
+- !private ["So21UIAppearanceContainerP", "Alamofire"]
+- !private ["So21UIAppearanceContainerP", "Config"]
+- !private ["So21UIAppearanceContainerP", "DispatchQueue"]
+- !private ["So21UIAppearanceContainerP", "HTTPMethod"]
+- !private ["So21UIAppearanceContainerP", "JSONEncoding"]
+- ["So21UIAppearanceContainerP", "Resource"]
+- !private ["So21UIAppearanceContainerP", "UINavigationController"]
+- !private ["So21UIAppearanceContainerP", "allResources"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCell"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "getAllResources"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "reloadData"]
+- !private ["So21UIAppearanceContainerP", "resource"]
+- !private ["So21UIAppearanceContainerP", "resources"]
+- !private ["So21UIAppearanceContainerP", "storyboard"]
+- !private ["So21UIAppearanceContainerP", "tableView"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "Alamofire"]
+- !private ["So18UIContentContainerP", "Config"]
+- !private ["So18UIContentContainerP", "DispatchQueue"]
+- !private ["So18UIContentContainerP", "HTTPMethod"]
+- !private ["So18UIContentContainerP", "JSONEncoding"]
+- ["So18UIContentContainerP", "Resource"]
+- !private ["So18UIContentContainerP", "UINavigationController"]
+- !private ["So18UIContentContainerP", "allResources"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "getAllResources"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "resources"]
+- !private ["So18UIContentContainerP", "storyboard"]
+- !private ["So18UIContentContainerP", "tableView"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
+- !private ["So17UICoordinateSpaceP", "reloadData"]
+- !private ["So17UICoordinateSpaceP", "resource"]
+- !private ["So23UIDataSourceTranslatingP", "dequeueReusableCell"]
+- !private ["So23UIDataSourceTranslatingP", "reloadData"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "reloadData"]
+- !private ["So13UIDynamicItemP", "resource"]
+- !private ["So18UIFocusEnvironmentP", "Alamofire"]
+- !private ["So18UIFocusEnvironmentP", "Config"]
+- !private ["So18UIFocusEnvironmentP", "DispatchQueue"]
+- !private ["So18UIFocusEnvironmentP", "HTTPMethod"]
+- !private ["So18UIFocusEnvironmentP", "JSONEncoding"]
+- ["So18UIFocusEnvironmentP", "Resource"]
+- !private ["So18UIFocusEnvironmentP", "UINavigationController"]
+- !private ["So18UIFocusEnvironmentP", "allResources"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "getAllResources"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "reloadData"]
+- !private ["So18UIFocusEnvironmentP", "resource"]
+- !private ["So18UIFocusEnvironmentP", "resources"]
+- !private ["So18UIFocusEnvironmentP", "storyboard"]
+- !private ["So18UIFocusEnvironmentP", "tableView"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "dequeueReusableCell"]
+- !private ["So11UIFocusItemP", "reloadData"]
+- !private ["So11UIFocusItemP", "resource"]
+- !private ["So27UIGestureRecognizerDelegateP", "resource"]
+- !private ["So22UINavigationControllerC", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "Alamofire"]
+- !private ["So30UIPasteConfigurationSupportingP", "Config"]
+- !private ["So30UIPasteConfigurationSupportingP", "DispatchQueue"]
+- !private ["So30UIPasteConfigurationSupportingP", "HTTPMethod"]
+- !private ["So30UIPasteConfigurationSupportingP", "JSONEncoding"]
+- ["So30UIPasteConfigurationSupportingP", "Resource"]
+- !private ["So30UIPasteConfigurationSupportingP", "UINavigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "allResources"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "getAllResources"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "reloadData"]
+- !private ["So30UIPasteConfigurationSupportingP", "resource"]
+- !private ["So30UIPasteConfigurationSupportingP", "resources"]
+- !private ["So30UIPasteConfigurationSupportingP", "storyboard"]
+- !private ["So30UIPasteConfigurationSupportingP", "tableView"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "Alamofire"]
+- !private ["So11UIResponderC", "Config"]
+- !private ["So11UIResponderC", "DispatchQueue"]
+- !private ["So11UIResponderC", "DisplayResourceController"]
+- !private ["So11UIResponderC", "HTTPHeaders"]
+- !private ["So11UIResponderC", "HTTPMethod"]
+- ["So11UIResponderC", "IndexPath"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "JSONEncoding"]
+- !private ["So11UIResponderC", "Parameters"]
+- ["So11UIResponderC", "Resource"]
+- !private ["So11UIResponderC", "ResourceCell"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UINavigationController"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "UITableView"]
+- ["So11UIResponderC", "UITableViewCell"]
+- ["So11UIResponderC", "allResources"]
+- !private ["So11UIResponderC", "dequeueReusableCell"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "getAllResources"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "numberOfSections"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "reloadData"]
+- !private ["So11UIResponderC", "resource"]
+- ["So11UIResponderC", "resources"]
+- !private ["So11UIResponderC", "storyboard"]
+- ["So11UIResponderC", "tableView"]
+- ["So11UIResponderC", "unwindToHomeScreen"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Alamofire"]
+- !private ["So30UIResponderStandardEditActionsP", "Config"]
+- !private ["So30UIResponderStandardEditActionsP", "DispatchQueue"]
+- !private ["So30UIResponderStandardEditActionsP", "HTTPMethod"]
+- !private ["So30UIResponderStandardEditActionsP", "JSONEncoding"]
+- ["So30UIResponderStandardEditActionsP", "Resource"]
+- !private ["So30UIResponderStandardEditActionsP", "UINavigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "allResources"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCell"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "getAllResources"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "reloadData"]
+- !private ["So30UIResponderStandardEditActionsP", "resource"]
+- !private ["So30UIResponderStandardEditActionsP", "resources"]
+- !private ["So30UIResponderStandardEditActionsP", "storyboard"]
+- !private ["So30UIResponderStandardEditActionsP", "tableView"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So12UIScrollViewC", "dequeueReusableCell"]
+- !private ["So12UIScrollViewC", "reloadData"]
+- !private ["So20UIScrollViewDelegateP", "Alamofire"]
+- !private ["So20UIScrollViewDelegateP", "Config"]
+- !private ["So20UIScrollViewDelegateP", "DispatchQueue"]
+- !private ["So20UIScrollViewDelegateP", "HTTPMethod"]
+- !private ["So20UIScrollViewDelegateP", "JSONEncoding"]
+- ["So20UIScrollViewDelegateP", "Resource"]
+- !private ["So20UIScrollViewDelegateP", "UINavigationController"]
+- !private ["So20UIScrollViewDelegateP", "allResources"]
+- !private ["So20UIScrollViewDelegateP", "didReceiveMemoryWarning"]
+- !private ["So20UIScrollViewDelegateP", "getAllResources"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "present"]
+- !private ["So20UIScrollViewDelegateP", "print"]
+- !private ["So20UIScrollViewDelegateP", "resources"]
+- !private ["So20UIScrollViewDelegateP", "storyboard"]
+- !private ["So20UIScrollViewDelegateP", "tableView"]
+- !private ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dequeueReusableCell"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "reloadData"]
+- !private ["So16UIStateRestoringP", "Alamofire"]
+- !private ["So16UIStateRestoringP", "Config"]
+- !private ["So16UIStateRestoringP", "DispatchQueue"]
+- !private ["So16UIStateRestoringP", "HTTPMethod"]
+- !private ["So16UIStateRestoringP", "JSONEncoding"]
+- ["So16UIStateRestoringP", "Resource"]
+- !private ["So16UIStateRestoringP", "UINavigationController"]
+- !private ["So16UIStateRestoringP", "allResources"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "getAllResources"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "resources"]
+- !private ["So16UIStateRestoringP", "storyboard"]
+- !private ["So16UIStateRestoringP", "tableView"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So11UITableViewC", "dequeueReusableCell"]
+- !private ["So11UITableViewC", "reloadData"]
+- !private ["So15UITableViewCellC", "resource"]
+- !private ["So21UITableViewControllerC", "Alamofire"]
+- !private ["So21UITableViewControllerC", "Config"]
+- !private ["So21UITableViewControllerC", "DispatchQueue"]
+- !private ["So21UITableViewControllerC", "DisplayResourceController"]
+- !private ["So21UITableViewControllerC", "HTTPHeaders"]
+- !private ["So21UITableViewControllerC", "HTTPMethod"]
+- ["So21UITableViewControllerC", "IndexPath"]
+- ["So21UITableViewControllerC", "Int"]
+- !private ["So21UITableViewControllerC", "JSONEncoding"]
+- !private ["So21UITableViewControllerC", "Parameters"]
+- ["So21UITableViewControllerC", "Resource"]
+- !private ["So21UITableViewControllerC", "ResourceCell"]
+- !private ["So21UITableViewControllerC", "String"]
+- !private ["So21UITableViewControllerC", "UINavigationController"]
+- ["So21UITableViewControllerC", "UIStoryboardSegue"]
+- ["So21UITableViewControllerC", "UITableView"]
+- ["So21UITableViewControllerC", "UITableViewCell"]
+- ["So21UITableViewControllerC", "allResources"]
+- ["So21UITableViewControllerC", "didReceiveMemoryWarning"]
+- ["So21UITableViewControllerC", "getAllResources"]
+- ["So21UITableViewControllerC", "init"]
+- ["So21UITableViewControllerC", "numberOfSections"]
+- !private ["So21UITableViewControllerC", "present"]
+- !private ["So21UITableViewControllerC", "print"]
+- ["So21UITableViewControllerC", "resources"]
+- !private ["So21UITableViewControllerC", "storyboard"]
+- ["So21UITableViewControllerC", "tableView"]
+- ["So21UITableViewControllerC", "unwindToHomeScreen"]
+- ["So21UITableViewControllerC", "viewDidLoad"]
+- ["So21UITableViewControllerC", ""]
+- !private ["So21UITableViewDataSourceP", "Alamofire"]
+- !private ["So21UITableViewDataSourceP", "Config"]
+- !private ["So21UITableViewDataSourceP", "DispatchQueue"]
+- !private ["So21UITableViewDataSourceP", "HTTPMethod"]
+- !private ["So21UITableViewDataSourceP", "JSONEncoding"]
+- ["So21UITableViewDataSourceP", "Resource"]
+- !private ["So21UITableViewDataSourceP", "UINavigationController"]
+- !private ["So21UITableViewDataSourceP", "allResources"]
+- !private ["So21UITableViewDataSourceP", "didReceiveMemoryWarning"]
+- !private ["So21UITableViewDataSourceP", "getAllResources"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "present"]
+- !private ["So21UITableViewDataSourceP", "print"]
+- !private ["So21UITableViewDataSourceP", "resources"]
+- !private ["So21UITableViewDataSourceP", "storyboard"]
+- !private ["So21UITableViewDataSourceP", "tableView"]
+- !private ["So21UITableViewDataSourceP", "viewDidLoad"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So19UITableViewDelegateP", "Alamofire"]
+- !private ["So19UITableViewDelegateP", "Config"]
+- !private ["So19UITableViewDelegateP", "DispatchQueue"]
+- !private ["So19UITableViewDelegateP", "HTTPMethod"]
+- !private ["So19UITableViewDelegateP", "JSONEncoding"]
+- ["So19UITableViewDelegateP", "Resource"]
+- !private ["So19UITableViewDelegateP", "UINavigationController"]
+- !private ["So19UITableViewDelegateP", "allResources"]
+- !private ["So19UITableViewDelegateP", "didReceiveMemoryWarning"]
+- !private ["So19UITableViewDelegateP", "getAllResources"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "present"]
+- !private ["So19UITableViewDelegateP", "print"]
+- !private ["So19UITableViewDelegateP", "resources"]
+- !private ["So19UITableViewDelegateP", "storyboard"]
+- !private ["So19UITableViewDelegateP", "tableView"]
+- !private ["So19UITableViewDelegateP", "viewDidLoad"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So18UITraitEnvironmentP", "Alamofire"]
+- !private ["So18UITraitEnvironmentP", "Config"]
+- !private ["So18UITraitEnvironmentP", "DispatchQueue"]
+- !private ["So18UITraitEnvironmentP", "HTTPMethod"]
+- !private ["So18UITraitEnvironmentP", "JSONEncoding"]
+- ["So18UITraitEnvironmentP", "Resource"]
+- !private ["So18UITraitEnvironmentP", "UINavigationController"]
+- !private ["So18UITraitEnvironmentP", "allResources"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "getAllResources"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "reloadData"]
+- !private ["So18UITraitEnvironmentP", "resource"]
+- !private ["So18UITraitEnvironmentP", "resources"]
+- !private ["So18UITraitEnvironmentP", "storyboard"]
+- !private ["So18UITraitEnvironmentP", "tableView"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "dequeueReusableCell"]
+- !private ["So6UIViewC", "reloadData"]
+- !private ["So6UIViewC", "resource"]
+- !private ["So16UIViewControllerC", "Alamofire"]
+- !private ["So16UIViewControllerC", "Config"]
+- !private ["So16UIViewControllerC", "DispatchQueue"]
+- !private ["So16UIViewControllerC", "DisplayResourceController"]
+- !private ["So16UIViewControllerC", "HTTPHeaders"]
+- !private ["So16UIViewControllerC", "HTTPMethod"]
+- ["So16UIViewControllerC", "IndexPath"]
+- ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "JSONEncoding"]
+- !private ["So16UIViewControllerC", "Parameters"]
+- ["So16UIViewControllerC", "Resource"]
+- !private ["So16UIViewControllerC", "ResourceCell"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UINavigationController"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "UITableView"]
+- ["So16UIViewControllerC", "UITableViewCell"]
+- ["So16UIViewControllerC", "allResources"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "getAllResources"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "numberOfSections"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "resources"]
+- !private ["So16UIViewControllerC", "storyboard"]
+- ["So16UIViewControllerC", "tableView"]
+- ["So16UIViewControllerC", "unwindToHomeScreen"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "doc_url"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "removeAll"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- !private ["s23_BidirectionalIndexableP", "doc_url"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "removeAll"]
+- !private ["s23_BidirectionalIndexableP", "row"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "reloadData"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "resource"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "doc_url"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "removeAll"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "doc_url"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "removeAll"]
+- !private ["s10_IndexableP", "row"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "doc_url"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "removeAll"]
+- !private ["s14_IndexableBaseP", "row"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Alamofire"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Config"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DispatchQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HTTPMethod"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "JSONEncoding"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Resource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UINavigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allResources"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dequeueReusableCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getAllResources"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reloadData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resources"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storyboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tableView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "doc_url"]
+- ["s17_MutableIndexableP", "init"]
+- !private ["s17_MutableIndexableP", "removeAll"]
+- !private ["s17_MutableIndexableP", "row"]
+- !private ["s17_MutableIndexableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "removeAll"]
+- !private ["s21_ObjectiveCBridgeableP", "row"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "doc_url"]
+- ["s22_RandomAccessIndexableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "removeAll"]
+- !private ["s22_RandomAccessIndexableP", "row"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "doc_url"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "removeAll"]
+- !private ["s26_RangeReplaceableIndexableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "8DropDown10AnchorViewP"
+- "Sa"
+- !private "s10ArraySliceV"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- !private "s10ComparableP"
+- !private "8Ma_shule6ConfigC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "9Alamofire11DataRequestC"
+- !private "9Alamofire12DataResponseV"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9Alamofire10HTTPMethodO"
+- "s8HashableP"
+- !private "10Foundation9IndexPathV"
+- !private "9Alamofire12JSONEncodingV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So9OS_objectC"
+- !private "9Alamofire17ParameterEncodingP"
+- "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "9Alamofire7RequestC"
+- !private "8Ma_shule8ResourceC"
+- !private "8Ma_shule12ResourceCellC"
+- "8Ma_shule22ResourceViewControllerC"
+- !private "9Alamofire8ResponseP"
+- !private "9Alamofire6ResultO"
+- "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- !private "So11UITableViewC"
+- !private "So15UITableViewCellC"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/moa.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Modules/Auk.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Modules/DropDown.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Headers/Auk-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Headers/DropDown-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSButton+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageTransition.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDAnimatedImageRep.h"
+- "/Users/mac/Desktop/Ma-shule/SWRevealViewController/Ma-shule-Bridging-Header.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/mac/Desktop/Ma-shule/SWRevealViewController/SWRevealViewController.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Headers/moa-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Headers/Auk-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Headers/DropDown-Swift.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/moa/moa.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Auk/Auk.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DropDown/DropDown.framework/Modules/module.modulemap"
+- "/Users/mac/Desktop/Ma-shule/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+interface-hash: "3d29acf95fc52ac10c07ac2ac2b6aae1"

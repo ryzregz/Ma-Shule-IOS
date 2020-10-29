@@ -1,0 +1,54 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MoaSettings"
+- "=="
+- "!="
+provides-nominal:
+- "3moa11MoaSettingsV"
+provides-member:
+- ["3moa11MoaSettingsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- "!="
+- !private "&&"
+- "=="
+- "Bool"
+- "Double"
+- "Int"
+- !private "MoaHttpSession"
+- "MoaSettings"
+- "MoaSettingsCache"
+depends-member:
+- !private ["3moa14MoaHttpSessionV", "cacheSettingsChanged"]
+- ["3moa11MoaSettingsV", "Double"]
+- ["3moa11MoaSettingsV", "Int"]
+- !private ["3moa11MoaSettingsV", "MoaHttpSession"]
+- ["3moa11MoaSettingsV", "MoaSettingsCache"]
+- ["3moa11MoaSettingsV", "cache"]
+- ["3moa11MoaSettingsV", "init"]
+- ["3moa11MoaSettingsV", "maximumSimultaneousDownloads"]
+- ["3moa11MoaSettingsV", "requestTimeoutSeconds"]
+- ["3moa16MoaSettingsCacheV", "init"]
+depends-nominal:
+- !private "3moa14MoaHttpSessionV"
+- "3moa11MoaSettingsV"
+- "3moa16MoaSettingsCacheV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/unextended-module.modulemap"
+interface-hash: "19532d9ed2b14c689de22074fdcd3262"

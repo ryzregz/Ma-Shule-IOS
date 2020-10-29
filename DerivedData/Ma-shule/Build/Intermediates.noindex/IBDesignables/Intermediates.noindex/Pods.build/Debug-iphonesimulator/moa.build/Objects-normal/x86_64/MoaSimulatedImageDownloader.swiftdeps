@@ -1,0 +1,79 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MoaSimulatedImageDownloader"
+provides-nominal:
+- "3moa27MoaSimulatedImageDownloaderC"
+provides-member:
+- ["3moa27MoaSimulatedImageDownloaderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "Error"
+- "HTTPURLResponse"
+- !private "MoaError"
+- "MoaImage"
+- "MoaImageDownloader"
+- "MoaSimulatedImageDownloader"
+- "String"
+depends-member:
+- !private ["s9EquatableP", "simulatedError"]
+- !private ["s5ErrorP", "simulatedError"]
+- !private ["s8HashableP", "simulatedError"]
+- !private ["3moa8MoaErrorO", "deinit"]
+- !private ["3moa8MoaErrorO", "simulatedError"]
+- !private ["3moa18MoaImageDownloaderP", "MoaError"]
+- !private ["3moa18MoaImageDownloaderP", "autorespondWithError"]
+- !private ["3moa18MoaImageDownloaderP", "autorespondWithImage"]
+- ["3moa18MoaImageDownloaderP", "cancel"]
+- !private ["3moa18MoaImageDownloaderP", "cancelled"]
+- !private ["3moa18MoaImageDownloaderP", "onError"]
+- !private ["3moa18MoaImageDownloaderP", "onSuccess"]
+- !private ["3moa18MoaImageDownloaderP", "respondWithError"]
+- !private ["3moa18MoaImageDownloaderP", "respondWithImage"]
+- ["3moa18MoaImageDownloaderP", "startDownload"]
+- !private ["3moa18MoaImageDownloaderP", "url"]
+- ["3moa18MoaImageDownloaderP", ""]
+- ["3moa27MoaSimulatedImageDownloaderC", "Error"]
+- ["3moa27MoaSimulatedImageDownloaderC", "HTTPURLResponse"]
+- !private ["3moa27MoaSimulatedImageDownloaderC", "MoaError"]
+- ["3moa27MoaSimulatedImageDownloaderC", "MoaImage"]
+- ["3moa27MoaSimulatedImageDownloaderC", "String"]
+- ["3moa27MoaSimulatedImageDownloaderC", "autorespondWithError"]
+- ["3moa27MoaSimulatedImageDownloaderC", "autorespondWithImage"]
+- ["3moa27MoaSimulatedImageDownloaderC", "cancel"]
+- ["3moa27MoaSimulatedImageDownloaderC", "cancelled"]
+- ["3moa27MoaSimulatedImageDownloaderC", "deinit"]
+- ["3moa27MoaSimulatedImageDownloaderC", "init"]
+- ["3moa27MoaSimulatedImageDownloaderC", "onError"]
+- ["3moa27MoaSimulatedImageDownloaderC", "onSuccess"]
+- ["3moa27MoaSimulatedImageDownloaderC", "respondWithError"]
+- ["3moa27MoaSimulatedImageDownloaderC", "respondWithImage"]
+- ["3moa27MoaSimulatedImageDownloaderC", "startDownload"]
+- ["3moa27MoaSimulatedImageDownloaderC", "url"]
+depends-nominal:
+- !private "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s8HashableP"
+- !private "3moa8MoaErrorO"
+- "3moa18MoaImageDownloaderP"
+- "3moa27MoaSimulatedImageDownloaderC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/unextended-module.modulemap"
+interface-hash: "0886947c85b4000244d2e32f14f05355"

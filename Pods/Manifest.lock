@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Auk (8.0.2):
+    - moa
+  - DropDown (2.3.1)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - moa (9.0.2)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SwiftyJSON (4.0.0)
+  - TransitionButton (0.3.0)
+  - TwicketSegmentedControl (0.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2.0)
+  - Auk (~> 8.0)
+  - DropDown
+  - GoogleMaps
+  - moa (~> 9.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON (>= 2.1.3)
+  - TransitionButton
+  - TwicketSegmentedControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Auk
+    - DropDown
+    - GoogleMaps
+    - moa
+    - RxCocoa
+    - RxSwift
+    - SDWebImage
+    - SwiftyJSON
+    - TransitionButton
+    - TwicketSegmentedControl
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Auk: 82be62a2cf650437fe745c81b12ac2440a0f682c
+  DropDown: 20499c7b2731b0d21609af924e47c7677a2be50d
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  moa: b73dc5e0efa1fad00711c4608e41b197f4d15b12
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TransitionButton: 0bf7e5ffe80030f9d10d57983a04acf2f511998a
+  TwicketSegmentedControl: 6d7a4cf243657e0ac3f00d06d873a25334c04042
+
+PODFILE CHECKSUM: 0740507e87f4b8116203c1c161a29d2cc4d8021a
+
+COCOAPODS: 1.5.3

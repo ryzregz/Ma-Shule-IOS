@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "a7f721982bff2bdb9d06ce47aee38e51"
+build_time: [1536311056, 373188000]
+inputs:
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/Auk.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukAutoscroll.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukPage.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukPageIndicatorContainer.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukPageVisibility.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukRemoteImage.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukScrollTo.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukScrollViewContent.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukScrollViewDelegate.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/AukSettings.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/Utils/AutoCancellingTimer.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/Utils/iiAnimator.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/Utils/iiAutolayoutConstraints.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/Utils/iiQ.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/Utils/RightToLeft.swift": [1533722329, 0]
+  "/Users/mac/Desktop/Ma-shule/Pods/Auk/Auk/UIScrollView+Auk.swift": [1533722329, 0]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Darwin</string>
+	<string>Cocoa</string>
+	<string>SwiftShims</string>
+	<string>CommonCrypto</string>
+	<string>ImageIO</string>
+	<string>objc</string>
+	<string>GoogleMaps</string>
+	<string>CoreData</string>
+	<string>MobileCoreServices</string>
+	<string>CoreServices</string>
+	<string>RxCocoa</string>
+	<string>RxSwift</string>
+	<string>RxCocoaRuntime</string>
+	<string>Glibc</string>
+	<string>SDWebImage</string>
+	<string>libkern</string>
+	<string>Auk</string>
+	<string>WebKit</string>
+	<string>PDFKit</string>
+	<string>XCTest</string>
+	<string>Dispatch</string>
+	<string>WatchKit</string>
+	<string>Foundation</string>
+	<string>QuartzCore</string>
+	<string>DropDown</string>
+	<string>AppKit</string>
+	<string>Alamofire</string>
+	<string>moa</string>
+	<string>Swift</string>
+	<string>SystemConfiguration</string>
+	<string>CoreGraphics</string>
+	<string>UIKit</string>
+</array>
+</plist>

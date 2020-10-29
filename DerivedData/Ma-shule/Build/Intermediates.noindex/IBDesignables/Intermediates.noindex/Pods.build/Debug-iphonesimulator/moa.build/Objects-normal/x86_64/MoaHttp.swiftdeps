@@ -1,0 +1,113 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MoaHttp"
+provides-nominal:
+- "3moa7MoaHttpV"
+provides-member:
+- ["3moa7MoaHttpV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "CastingPrecedence"
+- "Data"
+- "Error"
+- "HTTPURLResponse"
+- !private "MoaError"
+- "MoaHttp"
+- !private "MoaHttpSession"
+- "String"
+- !private "URL"
+- "URLSessionDataTask"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "dataTask"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "dataTask"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "invalidUrlString"]
+- !private ["s5ErrorP", "invalidUrlString"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "dataTask"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "invalidUrlString"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["3moa8MoaErrorO", "deinit"]
+- !private ["3moa8MoaErrorO", "invalidUrlString"]
+- ["3moa7MoaHttpV", "Data"]
+- ["3moa7MoaHttpV", "Error"]
+- ["3moa7MoaHttpV", "HTTPURLResponse"]
+- !private ["3moa7MoaHttpV", "MoaError"]
+- !private ["3moa7MoaHttpV", "MoaHttpSession"]
+- ["3moa7MoaHttpV", "String"]
+- !private ["3moa7MoaHttpV", "URL"]
+- ["3moa7MoaHttpV", "URLSessionDataTask"]
+- ["3moa7MoaHttpV", "createDataTask"]
+- ["3moa7MoaHttpV", "init"]
+- !private ["3moa14MoaHttpSessionV", "session"]
+- !private ["So8NSObjectC", "dataTask"]
+- !private ["So16NSObjectProtocolP", "dataTask"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["So10URLSessionC", "dataTask"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "3moa8MoaErrorO"
+- "3moa7MoaHttpV"
+- !private "3moa14MoaHttpSessionV"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "10Foundation3URLV"
+- !private "So10URLSessionC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Desktop/Ma-shule/Pods/Target Support Files/moa/moa-umbrella.h"
+- "/Users/mac/Desktop/Ma-shule/DerivedData/Ma-shule/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/moa.build/unextended-module.modulemap"
+interface-hash: "d1d8985287ba67b94f7f14e4207b02f2"
